@@ -1,0 +1,16 @@
+#banner-home-img {
+    aspect-ratio: unset !important;
+}
+
+.footnote-definition {
+
+    &:first-of-type {
+        padding-top: 1em;
+        margin-top: 2em;
+        // add top border using background
+        background-image: linear-gradient(to right, #333 40%, rgba(255, 255, 255, 0) 20%);
+        background-position: top;
+        background-size: 10px 1px;
+        background-repeat: repeat-x;
+    }
+}
