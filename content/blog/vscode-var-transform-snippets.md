@@ -57,7 +57,7 @@ I was able to get the ISO timestamp easily as well as tabstops for the `tags` fi
 
 The next step now is figuring out how to extract the `slug` from the filename of my markdown file, which is `example-post-1` from `2023-05-24_example-post-1.md`. Diving into the documentation again, I saw that [variable transforms](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_transform-examples) would be able to do it. After a while of tinkering, I got it to work:
 
-```json,linenostart=5,hl_lines=1-5
+```json,linenostart=5,hl_lines=5
 {
     // ...
     "body": [
