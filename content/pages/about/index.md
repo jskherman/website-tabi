@@ -39,9 +39,9 @@ the [archive](@/archive/_index.md) for a list of some of it. Feel free to reach 
 I am still building up the contents here on this website from time to time. For now, here's some links to things on this site that might be of interest that I have already built up:
 
 - The [Gists](@/gists/_index.md): if you're looking for code snippets and random pieces of text.
-- The μ-blog:[^1] I don't, of course, just post long-form articles, but also short notes and thoughts.
+- The [μ-blog](@/micro/_index.md): I don't, of course, just post long-form articles, but also short notes and thoughts.
 - My [Curriculum Vitae](https://go.jskherman.com/cv): if you're looking for it.
-- The [Now page](@/pages/now/index.md): if you're looking up what I am up to these days.[^2]
+- The [Now page](@/pages/now/index.md): if you're looking up what I am up to these days.[^1]
 - The [Web Archive](https://webclips.jskherman.com): if you're looking for a collection of links that I found interesting and have saved.
 
 ## Frequently Asked Questions
@@ -71,6 +71,4 @@ I am still building up the contents here on this website from time to time. For 
 
 </details>
 
-[^1]: 🚧 under construction
-
-[^2]: Don't know what a Now page is? [Learn about the idea](http://nownownow.com/about) and make your own too!
+[^1]: Don't know what a Now page is? [Learn about the idea](http://nownownow.com/about) and make your own too!
