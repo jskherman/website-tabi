@@ -9,6 +9,7 @@ draft = false
 tags = ["guide", "scripting", "python", "web scraping", "data extraction"]
 
 [extra]
+giscus = true
 toc = true
 katex = true
 footnote_backlinks = true

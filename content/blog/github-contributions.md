@@ -9,6 +9,7 @@ draft = false
 tags = ["guide", "scripting", "python", "web scraping", "data extraction", "github"]
 
 [extra]
+giscus = true
 toc = true
 # toc_ignore_pattern = "^(Table of Contents)"
 # social_media_card = "https://2023.jskherman.com/blog/github-contributions/20210805-lottery-banner.jpg"

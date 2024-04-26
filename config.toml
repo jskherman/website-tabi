@@ -336,14 +336,14 @@ self_hosted_url = "https://jsk-plausible.fly.dev"
 [extra.giscus]
 enabled_for_all_posts = false        # Enables giscus on all posts. It can be enabled on individual posts by setting `giscus = true` in the [extra] section of a post's front matter.
 automatic_loading = true             # If set to false, a "Load comments" button will be shown.
-repo = "jskherman/tabi-comments"
-repo_id = "R_kgDOJ59Urw"             # Find this value in https://giscus.app/
-category = "Announcements"
-category_id = "DIC_kwDOJ59Ur84CX0QG" # Find this value in https://giscus.app/
+repo = "jskherman/website-tabi"
+repo_id = "R_kgDOLzO-vg"             # Find this value in https://giscus.app/
+category = "General"
+category_id = "DIC_kwDOLzO-vs4Ce-Ik" # Find this value in https://giscus.app/
 mapping = "slug"                     # Available: pathname; url; title; slug. "slug" will use the post's filename (slug); this is the only way to share comments between languages.
 strict_title_matching = 1            # 1 to enable, 0 to disable. https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#data-strict
 enable_reactions = 1                 # 1 to enable, 0 to disable.
-comment_box_above_comments = false
+comment_box_above_comments = true
 light_theme = "noborder_light"
 dark_theme = "noborder_dark"
 lang = ""                            # Leave blank to match the page's language.
