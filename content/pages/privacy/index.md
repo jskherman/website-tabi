@@ -74,7 +74,7 @@ We might share information with our business partners. This includes a third par
 
 The comments data is not stored by Giscus, as specified in their [privacy policy](https://github.com/giscus/giscus/blob/main/PRIVACY-POLICY.md#what-data-do-we-collect). The data is stored on GitHub servers. See the [GitHub's privacy policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
-The analytics data is stored on a server hosted by [Fly.io](https://fly.io/). The server is located in the Los Angeles, California, USA ([`lax` region](https://fly.io/docs/reference/regions/)).
+The analytics data is stored on a server hosted by [Fly.io](https://fly.io/). The server is located in Los Angeles, California, USA ([`lax` region](https://fly.io/docs/reference/regions/)).
 
 ## How long will we store the data?
 
