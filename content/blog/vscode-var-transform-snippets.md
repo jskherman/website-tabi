@@ -1,6 +1,6 @@
 +++
 title = "Applying multiple variable transforms in VS Code snippets"
-# description = "Learn how to use Python to scrape a GitHub user's profile for their daily commit data and export it to a CSV file with this tutorial."
+description = "Figuring out how to apply multiple transforms to a variable in VS Code snippets using RegEx capture groups."
 date = 2023-05-24
 draft = false
 
