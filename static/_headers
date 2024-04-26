@@ -5,6 +5,7 @@
   X-XSS-Protection: 1; mode=block
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=63072000; includeSubdomains
+  Content-Security-Policy: default-src 'none'; frame-ancestors 'none'; object-src 'none'; base-uri 'self'; manifest-src 'self'; worker-src 'self'; form-action 'self'; 
 
 https://website-tabi.pages.dev/*
   X-Robots-Tag: noindex
