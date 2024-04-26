@@ -248,6 +248,7 @@ socials = [
 # Extra menu to show on the footer, below socials section.
 footer_menu = [
     { url = "about", name = "about", trailing_slash = true },
+    { url = "now", name = "now", trailing_slash = true },
     { url = "privacy", name = "privacy", trailing_slash = true },
     { url = "sitemap.xml", name = "sitemap", trailing_slash = false },
     { url = "https://analytics.jskherman.com", name = "?", trailing_slash = true },

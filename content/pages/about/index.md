@@ -4,7 +4,7 @@ template = "info-page.html"
 path = "about"
 
 [extra]
-quick_navigation_buttons = true
+quick_navigation_buttons = false
 +++
 <!-- 
 Welcome to the demo of [**tabi**](https://github.com/welpo/tabi), a theme for [Zola](https://www.getzola.org/), a fast static site generator.
@@ -41,7 +41,7 @@ I am still building up the contents here on this website from time to time. For 
 - The [Gists](@/gists/_index.md): if you're looking for code snippets and random pieces of text.
 - The μ-blog:[^1] I don't, of course, just post long-form articles, but also short notes and thoughts.
 - My [Curriculum Vitae](https://go.jskherman.com/cv): if you're looking for it.
-- The [Now page](@/pages/now.md): if you're looking up what I am up to these days.[^2]
+- The [Now page](@/pages/now/index.md): if you're looking up what I am up to these days.[^2]
 - The [Web Archive](https://webclips.jskherman.com): if you're looking for a collection of links that I found interesting and have saved.
 
 ## Frequently Asked Questions
