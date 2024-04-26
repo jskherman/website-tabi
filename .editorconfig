@@ -1,0 +1,17 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+[*]
+indent_style = space
+end_of_line = lf
+charset = utf-8
+
+[*.md]
+indent_size = 4
+trim_trailing_whitespace = false
+insert_final_newline = true
+
+[_headers]
+indent_size = 2
