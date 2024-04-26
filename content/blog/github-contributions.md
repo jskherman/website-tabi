@@ -1,5 +1,5 @@
 +++
-title = "Exporting all of my GitHub Contributions History"
+title = "Exporting all of my GitHub contributions history"
 description = "Learn how to use Python to scrape a GitHub user's profile for their daily commit data and export it to a CSV file with this tutorial."
 date = 2023-01-02
 updated = 2023-01-17

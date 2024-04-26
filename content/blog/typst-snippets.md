@@ -1,5 +1,5 @@
 +++
-title = "Adapting Gilles Castel’s LaTeX Snippets for Typst"
+title = "Adapting Gilles Castel’s LaTeX snippets for Typst"
 description = "My attempt at converting Gilles Castel's LaTeX snippets to Typst on Neovim and VS Code to make writing math faster just like in Castel's original post."
 date = 2023-10-07
 updated = 2023-12-27

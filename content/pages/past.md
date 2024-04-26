@@ -1,5 +1,5 @@
 +++
-title = "Past"
+title = "The Past"
 template = "info-page.html"
 path = "past"
 

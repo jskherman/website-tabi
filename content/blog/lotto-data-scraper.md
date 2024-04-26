@@ -1,5 +1,5 @@
 +++
-title = "How to Extract Data on PCSO Lottery Winning Combinations using Python"
+title = "How to extract data on PCSO lottery winning combinations using Python"
 description = "Learn how to extract data on PCSO lottery winning combinations using Python and Selenium as well as saving it to Microsoft Excel in this guide."
 date = 2021-08-05
 updated = 2023-01-17
