@@ -208,6 +208,7 @@ social_media_card = "social_cards/index.png"
 
 menu = [
     { name = "about", url = "about", trailing_slash = true },
+    { name = "micro", url = "micro", trailing_slash = true },
     { name = "blog", url = "blog", trailing_slash = true },
     { name = "gists", url = "gists", trailing_slash = true },
     # { name = "projects", url = "projects", trailing_slash = true },
