@@ -233,14 +233,14 @@ encode_plaintext_email = true # Setting is ignored if email is already encoded.
 
 # The icons available can be found in "social_icons" in the "static" folder.
 socials = [
-    { name = "Curriculum Vitae", url = "https://go.jskherman.com/cv", icon = "file-pdf" },
+    { name = "CV", url = "https://go.jskherman.com/cv", icon = "file-pdf" },
     { name = "LinkedIn", url = "https://linkedin.com/in/jskherman", icon = "linkedin" },
     { name = "GitHub", url = "https://github.com/jskherman/", icon = "github" },
-    { name = "Mastodon", url = "https://mathstodon.xyz/@jskherman", icon = "mastodon" },
+    { name = "Fediverse", url = "https://mathstodon.xyz/@jskherman", icon = "mastodon" },
     { name = "Twitter", url = "https://twitter.com/jskherman/", icon = "twitter" },
     { name = "Telegram", url = "https://t.me/jskherman", icon = "telegram" },
     { name = "YouTube", url = "https://youtube.com/watch?v=dQw4w9WgXcQ", icon = "youtube" },
-    { name = "Buy me a coffee?", url = "https://ko-fi.com/jskherman", icon = "kofi" },
+    { name = "Coffee?", url = "https://ko-fi.com/jskherman", icon = "kofi" },
     { name = "INTJ", url = "https://www.16personalities.com/profiles/672b5e6d1fea7", icon = "user" },
     { name = "Personal Web Archive", url = "https://webclips.jskherman.com", icon = "archive" },
     # { name = "RSS", url = "/feed.xml", icon = "rss" },
