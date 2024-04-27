@@ -1,15 +1,30 @@
-#banner-home-img {
-    aspect-ratio: unset !important;
+mark {
+    margin: 0 -0.4em;
+    padding: 0em 0.4em;
+    border-radius: 0.8em 0.3em;
+    background: transparent;
+    background-image: linear-gradient(
+      to right,
+      rgba(255, 225, 0, 0.1),
+      rgba(255, 225, 0, 0.7) 4%,
+      rgba(255, 225, 0, 0.3)
+    );
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
 }
 
-.home-title {
-    font-family: var(--serif-font);
-    font-weight: 700 !important;
+#banner-home-img {
+    aspect-ratio: unset !important;
 }
 
 #banner-home-subtitle {
     font-family: var(--serif-font);
     font-weight: 375 !important;
+}
+
+.home-title {
+    font-family: var(--serif-font);
+    font-weight: 700 !important;
 }
 
 .footnote-definition {
