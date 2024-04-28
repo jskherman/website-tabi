@@ -8,10 +8,10 @@
     <script async
     {% if self_hosted_url %}
         data-goatcounter="{{ self_hosted_url ~ '/count' }}"
-        src="/count.js"
+        src="/js/count.js"
     {% else %}
         data-goatcounter="https://{{ analytics_id }}.goatcounter.com/count"
-        src="/count.js"
+        src="/js/count.js"
     {% endif %}
     ></script>
     {% endif %}
