@@ -315,7 +315,7 @@ custom_subset = true
 [extra.analytics]
 # Specify which analytics service you want to use.
 # Supported options: ["goatcounter", "umami", "plausible"]
-service = "plausible"
+service = "goatcounter"
 
 # Unique identifier for tracking.
 # For GoatCounter, this is the code you choose during signup.
