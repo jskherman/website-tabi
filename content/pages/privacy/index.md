@@ -2,7 +2,7 @@
 title = "Privacy Policy"
 path = "privacy"
 date = 2024-04-27
-updated = 2024-04-27
+updated = 2024-04-28
 +++
 
 This privacy policy outlines how we collect and process your data on this website.
@@ -50,7 +50,7 @@ The data associated with comments is collected using [giscus](https://giscus.app
 
 ### Analytics {#how-analytics}
 
-The non-personal data is collected using Cloudflare's server-side analytics and a self-hosted instance of [Plausible Analytics](https://plausible.io/), an open-source privacy-friendly web analytics platform, hosted on [Fly.io](https://fly.io).
+The non-personal data is collected using a self-hosted instance of [Umami Analytics](https://umami.is/), an open-source privacy-friendly web analytics platform, hosted on [Fly.io](https://fly.io).
 
 ## How will we use the data?
 
