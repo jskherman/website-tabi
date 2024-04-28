@@ -19,6 +19,7 @@ giscus = true
 
 ## For top of my mind
 
+- `📝` [No More Zero Days](https://old.reddit.com/r/NonZeroDay/comments/1qbxvz/the_gospel_of_uryans01_helpful_advice_for_anyone/)
 - `YouTube` [Change Your Life – One Tiny Step at a Time](https://www.youtube.com/watch?v=75d_29QWELk)
 - `📝` [The One Percent Rule: Why a Few People Get Most of the Rewards](https://jamesclear.com/the-1-percent-rule)
     - `📝` [Re: Inequality — The Yard-sale model](https://pudding.cool/2022/12/yard-sale/)
