@@ -15,7 +15,7 @@
                 <ul>
                     {%- if config.generate_feed and config.extra.feed_icon -%}
                     <li>
-                        <a class="nav-links no-hover-padding social plausible-event-name=Clicked+Socials:+RSS" rel="{{ rel_attributes }}" {{ blank_target }} href={{ get_url(path=config.feed_filename, lang=lang, trailing_slash=false) | safe }}>
+                        <a class="nav-links no-hover-padding social" rel="{{ rel_attributes }}" {{ blank_target }} href={{ get_url(path=config.feed_filename, lang=lang, trailing_slash=false) | safe }} data-umami-event="Clicked Socials: RSS" data-umami-event-url="{{ get_url(path=config.feed_filename, lang=lang, trailing_slash=false) | safe }}">
                         <img alt="feed" title="feed" src="{{ get_url(path='/social_icons/rss.svg') }}">
                         </a>
                     </li>
@@ -39,9 +39,9 @@
 
                         <li class="{% if email_needs_decoding %}js{% endif %}">
                             {%- if email_needs_decoding -%}
-                                <a class="nav-links no-hover-padding social plausible-event-name=Clicked+Socials:+Email" href="#" data-encoded-email="{{ encoded_email | safe }}">
+                                <a class="nav-links no-hover-padding social" href="#" data-umami-event="Clicked Socials: Email" data-encoded-email="{{ encoded_email | safe }}">
                             {%- else -%}
-                                <a class="nav-links no-hover-padding social plausible-event-name=Clicked+Socials:+Email" href="mailto:{{ config.extra.email | safe }}" data-goatcounter-click="mailto:{{ config.extra.email | safe }}" data-goatcounter-title="Clicked Socials: Email">
+                                <a class="nav-links no-hover-padding social plausible-event-name=Clicked+Socials:+Email" href="mailto:{{ config.extra.email | safe }}" data-umami-event="Clicked Socials: Email" data-umami-event-url="mailto:{{ config.extra.email | safe }}">
                             {%- endif -%}
                                 <img alt="email" title="email" src="{{ get_url(path='social_icons/email.svg') }}">
                             </a>
@@ -50,7 +50,7 @@
 
                     {% for social in config.extra.socials %}
                         <li>
-                            <a class="nav-links no-hover-padding social plausible-event-name=Clicked+Socials:+{{ social.name | urlencode_strict }}" rel="{{ rel_attributes }} me" {{ blank_target }} href="{{ social.url | safe }}" data-goatcounter-click="{{ social.url | safe }}" data-goatcounter-title="Clicked Socials: {{ social.name }}">
+                            <a class="nav-links no-hover-padding social" rel="{{ rel_attributes }} me" {{ blank_target }} href="{{ social.url | safe }}" data-umami-event="Clicked Socials: {{ social.name }}" data-umami-event-url="{{ social.url | safe }}">
                                 <img alt={{ social.name }} title={{ social.name }} src="{{ get_url(path='social_icons/' ~ social.icon ~ '.svg') }}">
                             </a>
                         </li>
