@@ -315,7 +315,7 @@ custom_subset = true
 [extra.analytics]
 # Specify which analytics service you want to use.
 # Supported options: ["goatcounter", "umami", "plausible"]
-service = "goatcounter"
+service = "plausible"
 
 # Unique identifier for tracking.
 # For GoatCounter, this is the code you choose during signup.
@@ -329,7 +329,7 @@ id = "jskherman"
 # For Umami: Base URL like "https://umami.example.com"
 # For Plausible: Base URL like "https://plausible.example.com"
 # Leave this field empty if you're using the service's default hosting.
-self_hosted_url = ""
+self_hosted_url = "https://jsk-plausible.fly.dev"
 
 # giscus support for comments. https://giscus.app
 # Setup instructions: https://welpo.github.io/tabi/blog/comments/#setup
