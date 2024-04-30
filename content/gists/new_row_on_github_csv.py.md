@@ -1,5 +1,5 @@
 +++
-title = "new_row_on_github_csv.py"
+title = "📋new_row_on_github_csv.py"
 description = "Reading a csv file on GitHub, appending a new row to it, and committing it back again to GitHub. "
 date = 2022-11-27
 draft = false

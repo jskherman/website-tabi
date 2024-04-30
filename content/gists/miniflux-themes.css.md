@@ -1,5 +1,5 @@
 +++
-title = "miniflux-themes.css"
+title = "📋miniflux-themes.css"
 description = "A collection of themes for Miniflux (RSS Reader)."
 date = 2024-04-30
 draft = false

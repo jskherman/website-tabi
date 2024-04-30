@@ -1,5 +1,5 @@
 +++
-title = "get_HN_favorites.py"
+title = "📋get_HN_favorites.py"
 description = "A Python script to get HN favorites for a user."
 date = 2020-07-15
 updated = 2024-03-11

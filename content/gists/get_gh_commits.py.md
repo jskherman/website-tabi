@@ -1,5 +1,5 @@
 +++
-title = "get_gh_commits.py"
+title = "📋get_gh_commits.py"
 description = "A Python script for exporting a GitHub user's daily commit counts to a CSV file."
 date = 2023-08-05
 draft = false

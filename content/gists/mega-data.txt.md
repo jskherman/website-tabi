@@ -1,5 +1,5 @@
 +++
-title = "mega-data.txt"
+title = "📋mega-data.txt"
 description = "A raw text dump."
 date = 2024-04-23
 draft = false

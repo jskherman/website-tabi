@@ -1,5 +1,5 @@
 +++
-title = "statuscafe_parser.py"
+title = "📋statuscafe_parser.py"
 description = "A Python script that parses an Atom RSS feed from status.cafe and exports the data to a CSV file."
 date = 2024-03-08
 # updated = 2024-04-25

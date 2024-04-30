@@ -1,5 +1,5 @@
 +++
-title = "π to 3200 digits in the Library of Babel"
+title = "📋π to 3200 digits in the Library of Babel"
 description = "A guide to locating the 3200 digits of π in the Library of Babel."
 date = 2022-02-01
 updated = 2023-07-17

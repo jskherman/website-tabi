@@ -1,5 +1,5 @@
 +++
-title = "Things I always search for when working with Git"
+title = "📋Things I always search for when working with Git"
 description = "Save the BFG Repo-Cleaner for later for fixing mistakes in Git commit history."
 date = 2024-04-25
 draft = false

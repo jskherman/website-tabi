@@ -1,5 +1,5 @@
 +++
-title = "Philippine locations data"
+title = "📋Philippine locations data"
 description = "Philippine Regions, Provinces, Municipalities/Cities, Barangays from the DILG."
 date = 2022-06-30
 updated = 2023-04-14
