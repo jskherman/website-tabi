@@ -28,7 +28,7 @@ giscus = true
 ## At least move your body 
 
 - 🎵 [Bling-Bang-Bang-Born](https://www.youtube.com/watch?v=H6FUBWGSOIc) ([Eurobeat ver.](https://www.youtube.com/watch?v=W5MpvO-7bsg)) 
-- 🎵 [pixel radio](https://www.youtube.com/watch?v=BJ0xBCwkg3E)
+- 🎵 [pixel radio](https://www.youtube.com/watch?v=mUkNS6W5Z54&list=PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U)
 
 
 ## For when you're feeling down
