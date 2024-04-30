@@ -65,6 +65,15 @@ I am still building up the contents here on this website from time to time. For 
 </details>
 
 <details>
+<summary>Fancy some background music while you're here?</summary>
+
+> Play on [an Invidious Frontend](https://iv.melmac.space/watch?v=mUkNS6W5Z54&list=PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U&index=0&autoplay=1) or on [YouTube](https://youtube.com/playlist?list=PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U).
+
+{{ youtube(id="mUkNS6W5Z54", playlist="PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U", continue=true, audio=false, autoplay=true) }}
+
+</details>
+
+<details>
 <summary>What is it that keeps you going?</summary>
 
 {{ image_hover(default_src="/img/keeps-you.png", hovered_src="/img/keeps-you-going.png", default_alt="What keeps me going is my desire to crush my enemies.", hovered_alt="What keeps me going is my sense of wonder.") }}
