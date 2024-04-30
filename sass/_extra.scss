@@ -55,3 +55,10 @@ h5,
 h6 {
     margin-bottom: 0.25em !important;
 }
+
+textarea,
+input {
+    font: inherit;
+    letter-spacing: inherit;
+    word-spacing: inherit;
+}
