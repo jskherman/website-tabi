@@ -1,0 +1,43 @@
+User-agent: search.marginalia.nu
+Allow: /
+Disallow: /secrets
+
+User-agent: SearchMySiteBot
+Allow: /
+Disallow: /secrets
+
+User-agent: Googlebot
+Allow: /
+Disallow: /secrets
+
+User-agent: Bingbot
+Allow: /
+Disallow: /secrets
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /secrets
+
+User-agent: BraveBot
+Allow: /
+Disallow: /secrets
+
+User-agent: Kagi
+Allow: /
+Disallow: /secrets
+
+User-agent: KagiBot
+Allow: /
+Disallow: /secrets
+
+User-agent: AhrefsBot
+Allow: /
+Disallow: /secrets
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+Sitemap: {{ get_url(path="sitemap.xml") }}
