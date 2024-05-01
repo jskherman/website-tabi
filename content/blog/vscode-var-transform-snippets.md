@@ -5,7 +5,7 @@ date = 2023-05-24
 draft = false
 
 [taxonomies]
-tags = ["vs code", "snippets", "regex", "templates", "TIL"]
+tags = ["vs code", "snippets", "regex", "templates"]
 
 [extra]
 giscus = true
