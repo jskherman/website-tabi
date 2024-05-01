@@ -10,7 +10,7 @@
 
 <footer>
     <section>
-        <nav class="socials nav-navs">
+        <nav id="socials" class="socials nav-navs">
             {%- if config.extra.socials %}
                 <ul>
                     {%- if config.generate_feed and config.extra.feed_icon -%}
@@ -39,9 +39,9 @@
 
                         <li class="{% if email_needs_decoding %}js{% endif %}">
                             {%- if email_needs_decoding -%}
-                                <a class="nav-links no-hover-padding social" href="#" data-umami-event="Clicked Socials: Email" data-encoded-email="{{ encoded_email | safe }}">
+                                <a id="email-link" class="nav-links no-hover-padding social" href="#" data-umami-event="Clicked Socials: Email" data-encoded-email="{{ encoded_email | safe }}">
                             {%- else -%}
-                                <a class="nav-links no-hover-padding social plausible-event-name=Clicked+Socials:+Email" href="mailto:{{ config.extra.email | safe }}" data-umami-event="Clicked Socials: Email" data-umami-event-url="mailto:{{ config.extra.email | safe }}">
+                                <a id="email-link" class="nav-links no-hover-padding social plausible-event-name=Clicked+Socials:+Email" href="mailto:{{ config.extra.email | safe }}" data-umami-event="Clicked Socials: Email" data-umami-event-url="mailto:{{ config.extra.email | safe }}">
                             {%- endif -%}
                                 <img alt="email" title="email" src="{{ get_url(path='social_icons/email.svg') }}">
                             </a>
