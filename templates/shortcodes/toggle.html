@@ -1,0 +1,4 @@
+<details {% if class %}class="{{ class }}"{% endif %}{% if id %} id="{{ id }}"{% endif %}><summary>{{ title | markdown(inline=true) | safe }}</summary>
+
+{{ body | markdown(inline=true) | safe }}
+</details>

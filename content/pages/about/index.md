@@ -46,38 +46,32 @@ I am still building up the contents here on this website from time to time. For 
 
 ## Frequently Asked Questions
 
-<details>
-<summary id="firstname">How do you pronounce your first name?</summary>
+{% toggle(title="How do you pronounce your first name?", id="firstname") %}
 
 > My first name "Je Sian Keith" is pronounced as **/ʤi ʃan kiːθ/** (ji shan kith).
-</details>
+{% end %}
 
-<details>
-<summary>What is your favorite font?</summary>
+{% toggle(title="What is your favorite font?") %}
 
 > A monospace font with ligatures called: [Cascadia Code](https://github.com/microsoft/cascadia-code).
-</details>
+{% end %}
 
-<details>
-<summary>What is your horoscope?</summary>
+{% toggle(title="What is your horoscope?") %}
 
 > It’s Gemini.
-</details>
+{% end %}
 
-<details>
-<summary>Fancy some background music while you're here?</summary>
+{% toggle(title="Fancy some background music while you're here?") %}
 
 > Play on [an Invidious Frontend](https://iv.melmac.space/watch?v=mUkNS6W5Z54&list=PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U&index=0&autoplay=1) or on [YouTube](https://youtube.com/playlist?list=PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U).
 
 {{ youtube(id="mUkNS6W5Z54", playlist="PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U", continue=true, audio=false, autoplay=true) }}
+{% end %}
 
-</details>
-
-<details>
-<summary>What is it that keeps you going?</summary>
+{% toggle(title="What is it that keeps you going?") %}
 
 {{ image_hover(default_src="/img/keeps-you.png", hovered_src="/img/keeps-you-going.png", default_alt="What keeps me going is my desire to crush my enemies.", hovered_alt="What keeps me going is my sense of wonder.") }}
+{% end %}
 
-</details>
 
 [^1]: Don't know what a Now page is? [Learn about the idea](http://nownownow.com/about) and make your own too!
