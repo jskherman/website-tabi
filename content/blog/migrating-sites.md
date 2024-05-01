@@ -3,6 +3,8 @@ title = "Migrating my website *again* for the fifth time"
 description = "Lessons I learned in my journey of migrating my website four times, encountering template issues, and exploring various themes and site generators."
 date = 2023-05-24
 updated = 2024-04-27
+
+[taxonomies]
 tags = ["blogging", "websites", "data", "static site generators", "hugo", "zola"]
 +++
 
