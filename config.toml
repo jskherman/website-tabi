@@ -182,7 +182,8 @@ short_date_format = "%Y-%m-%d"
 
 # Custom separator used in title tag and posts metadata (between date, time to read, and tags).
 # Default: "•"
-separator = ">"
+# separator = ">"
+separator = "•"
 
 # Use a shorter layout for All tags listing.
 # Default: tag_name – n post[s]
