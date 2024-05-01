@@ -34,6 +34,10 @@ highlight_code = true
 highlight_theme = "css"
 smart_punctuation = true
 
+# Whether external links are to be opened in a new tab
+# If this is true, a `rel="noopener"` will always automatically be added for security reasons
+external_links_target_blank = true
+
 [search]
 # Whether to include the title of the page/section in the index.
 include_title = true
