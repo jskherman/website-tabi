@@ -67,6 +67,7 @@ skip_prefixes = [
 skip_anchor_prefixes = [
     "https://github.com/",
     "https://caniuse.com/",
+    "https://docs.google.com"
 ]
 
 # Treat external link problems as either "error" or "warn", default is "error"
