@@ -35,7 +35,7 @@ Frequently Asked Questions:
 >
 > _**Note**_: cannot force push a protect branch on GitHub
 >
-> The BFG is typically at least [10-50](https://docs.google.com/spreadsheet/ccc?key=0AsR1d5Zpes8HdER3VGU1a3dOcmVHMmtzT2dsS2xNenc#gid=0) times faster than running `git-filter-branch`, and generally easier to use.
+> The BFG is typically at least [10-50](https://docs.google.com/spreadsheet/ccc?key=0AsR1d5Zpes8HdER3VGU1a3dOcmVHMmtzT2dsS2xNenc) times faster than running `git-filter-branch`, and generally easier to use.
 >
 > Full disclosure: I'm the author of the BFG Repo-Cleaner.
 >

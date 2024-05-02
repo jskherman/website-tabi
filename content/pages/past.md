@@ -29,7 +29,7 @@ quick_navigation_buttons = true
 
 ### January
 
-+ `2023-01-16` Classes are starting again and this time this is the 2nd semester of my fourth year in college for my Bachelor's degree in Chemical Engineering. Judging from the [curriculum](https://buchemengg.wixsite.com/buchedept/downloads#:~:text=BSChE%20Curriculum%202018%2D19%20(For%201st%20and%202nd%20Years)), this semester is going to be hectic with classes need to be virtually done by the end of April 2023.
++ `2023-01-16` Classes are starting again and this time this is the 2nd semester of my fourth year in college for my Bachelor's degree in Chemical Engineering. Judging from the [2018-2019 curriculum](https://buchemengg.wixsite.com/buchedept/downloads), this semester is going to be hectic with classes need to be virtually done by the end of April 2023.
 
 ## The Year 2022
 
@@ -63,4 +63,4 @@ quick_navigation_buttons = true
 
 + `2021-06-21`: Learned the ins and outs of being a Vice President for Internal Affairs in my university's student organization for the Chemical Engineering department: [Philippine Institute of Chemical Engineering - Junior Chapter V (PIChE-JCV)](https://www.facebook.com/PIChEJCV/).
 
-+ `2021-06-26`: Developed this website and the [other site](https://notes.jskherman.com) for my notes. I have learned a lot about the [Zettelkasten method](https://zettelkasten.de/) and the world of [static site generators](https://jamstack.org/generators/) on the side, little by little, throughout last year. [A secret?](https://jsk-umami--analytics.herokuapp.com/)
++ `2021-06-26`: Developed this website and the another site for my notes. I have learned a lot about the [Zettelkasten method](https://zettelkasten.de/) and the world of [static site generators](https://jamstack.org/generators/) on the side, little by little, throughout last year.
