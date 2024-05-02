@@ -54,10 +54,24 @@ include_content = true
 # Accepted value "elasticlunr_javascript" or "elasticlunr_json".
 index_format = "elasticlunr_json"
 
+# Configuration of the link checker.
 [link_checker]
+# Skip link checking for external URLs that start with these prefixes
+skip_prefixes = [
+    "https://www.vultr.com/",
+    "http://[2001:db8::]/",
+    "https://www.facebook.com/"
+]
+
+# Skip anchor checking for external URLs that start with these prefixes
+skip_anchor_prefixes = [
+    "https://github.com/",
+    "https://caniuse.com/",
+]
+
+# Treat external link problems as either "error" or "warn", default is "error"
+external_level = "error"
 internal_level = "warn"
-skip_prefixes = ["https://www.vultr.com/"]
-skip_anchor_prefixes = ["https://github.com/"]
 
 # [languages.es]
 # title = "~/tabi"
