@@ -18,7 +18,7 @@ giscus = true
 
 
 
-~~Recently,~~ I noticed that the [VS Code extension for the Typst LSP](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp) added support for `textmate scopes`, which means that I can now use [HyperSnips](https://marketplace.visualstudio.com/items?itemName=draivin.hsnips) snippets for my [Typst](https://typst.app) files! [^1] On another note, there's also support now for contexts with the [`typst.vim`](https://github.com/kaarmu/typst.vim) plugin in Neovim, just like in the [`vimtex plugin`](https://github.com/lervag/vimtex). Now making it possible to have [UltiSnips](https://github.com/SirVer/ultisnips) and [LuaSnip]((https://github.com/L3MON4D3/LuaSnip/blob/master/DOC.md)) work with Typst files as well.
+~~Recently,~~ I noticed that the [VS Code extension for the Typst LSP](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp) added support for `textmate scopes`, which means that I can now use [HyperSnips](https://marketplace.visualstudio.com/items?itemName=draivin.hsnips) snippets for my [Typst](https://typst.app) files! [^1] On another note, there's also support now for contexts with the [`typst.vim`](https://github.com/kaarmu/typst.vim) plugin in Neovim, just like in the [`vimtex plugin`](https://github.com/lervag/vimtex). Now making it possible to have [UltiSnips](https://github.com/SirVer/ultisnips) and [LuaSnip](https://github.com/L3MON4D3/LuaSnip/blob/master/DOC.md) work with Typst files as well.
 
 Seeing as writing snippets for Typst is now possible with Neovim and/or VS Code. I set out last night to convert some of the snippets in [Gilles Castel's original blog post on his LaTeX snippets](https://castel.dev/post/lecture-notes-1/) that I found useful for my own use.
 
