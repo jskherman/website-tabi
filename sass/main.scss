@@ -1,3 +1,15 @@
+@use "fonts";
 @use "extra";
 @use "shortcodes";
 @use "../themes/tabi/sass/main.scss";
+
+
+:root {
+    --system-sans-font: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    --system-serif-font: "Apple Garamond", "Baskerville", Georgia, "Times New Roman", "Droid Serif", "Times", serif;
+    --sans-serif-font: "Geist", "Inter", var(--system-sans-font);
+    --serif-font: "Source Serif 4", var(--system-serif-font);
+    --code-font: "Geist Mono", "Cascadia Mono", "Cascadia Code", "Courier New", "SF Mono", "Monaco", "Inconsolata", "Fira Mono", "Droid Sans Mono", monospace;
+
+    font-family: var(--sans-serif-font);
+}

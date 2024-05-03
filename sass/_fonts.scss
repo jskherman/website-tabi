@@ -1,0 +1,63 @@
+@font-face {
+    src: local("Geist"),
+        url("fonts/GeistVF.woff2") format("woff2-variations");
+    font-family: "Geist";
+    font-stretch: normal;
+    font-display: swap;
+    font-variant-ligatures: normal;
+    // font-style: normal;
+    // font-weight: 100 200 300 400 500 600 700 800 900;
+}
+
+@font-face {
+    src: local("Geist Mono"),
+        url("fonts/GeistMonoVF.woff2") format("woff2-variations");
+    font-family: 'Geist Mono';
+    font-stretch: normal;
+    font-display: swap;
+    font-variant-ligatures: normal;
+    // font-style: normal;
+    // font-weight: 100 200 300 400 500 600 700 800 900;
+}
+
+
+@font-face {
+    font-family: "Source Serif 4";
+    src: url("/fonts/SourceSerif4Variable-Roman.ttf.woff2") format("woff2-variations");
+    font-stretch: normal;
+    font-display: swap;
+    font-variant-ligatures: normal;
+    font-style: normal;
+    // font-weight: 100 200 300 400 500 600 700 800 900;
+}
+
+
+@font-face {
+    font-family: "Source Serif 4";
+    src: url("/fonts/SourceSerif4Variable-Italic.ttf.woff2") format("woff2-variations");
+    font-stretch: normal;
+    font-display: swap;
+    font-variant-ligatures: normal;
+    font-style: italic;
+    // font-weight: 100 200 300 400 500 600 700 800 900;
+}
+
+@font-face {
+    font-family: "Cascadia Mono";
+    src: url("/fonts/CascadiaMonoItalic.woff2") format("woff2-variations");
+    font-stretch: normal;
+    font-display: swap;
+    font-variant-ligatures: normal;
+    font-style: italic;
+    // font-weight: 100 200 300 400 500 600 700 800 900;
+  }
+  
+  @font-face {
+    font-family: "Cascadia Mono";
+    src: url("/fonts/CascadiaMono.woff2") format("woff2-variations");
+    font-stretch: normal;
+    font-display: swap;
+    font-variant-ligatures: normal;
+    font-style: normal;
+    // font-weight: 100 200 300 400 500 600 700 800 900;
+  }
