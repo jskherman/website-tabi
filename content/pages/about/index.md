@@ -63,9 +63,9 @@ I am still building up the contents here on this website from time to time. For 
 
 {% toggle(title="Fancy some background music while you're here?") %}
 
-> Play on [an Invidious Frontend](https://iv.melmac.space/watch?v=mUkNS6W5Z54&list=PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U&index=0&autoplay=1) or on [YouTube](https://youtube.com/playlist?list=PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U).
+> Play on [an Invidious Frontend](https://iv.melmac.space/watch?v=N3-ucf1ELoA&list=PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U&index=0&autoplay=1) or on [YouTube](https://youtube.com/playlist?list=PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U).
 
-{{ youtube(id="mUkNS6W5Z54", playlist="PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U", continue=true, audio=false, autoplay=true) }}
+{{ youtube(id="N3-ucf1ELoA", playlist="PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U", continue=true, audio=false, autoplay=true) }}
 {% end %}
 
 {% toggle(title="What is it that keeps you going?") %}
