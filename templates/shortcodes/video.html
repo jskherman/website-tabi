@@ -1,0 +1,16 @@
+<video 
+  class="vidembed"
+  preload="auto"
+  {% if autoplay %}autoplay{% endif %}
+  {% if not nocontrols %}controls{% endif %} 
+  {% if loop %}loop{% endif %}
+  {% if height %}height="{{height}}"{% endif %}
+  {% if width %}width="{{width}}"{% endif %}
+  >
+    {% for source in sources -%}
+      {% set type = source | split(pat=".") | last -%}
+      <source src="{{ config.base_url | safe }}{{ page.path | safe }}{{ source | safe }}" type="{{ 'video/' ~ type }}" />
+    {% endfor -%}
+    Your browser doesn't support the video tag and/or the video formats in use here - sorry!
+</video>
+<!-- Usage video(sources=["over9000_av1.mp4", "over9000_vp9.webm"]) -->
