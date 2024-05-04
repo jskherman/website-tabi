@@ -257,8 +257,6 @@ socials = [
     { name = "LinkedIn", url = "https://linkedin.com/in/jskherman", icon = "linkedin" },
     { name = "GitHub", url = "https://github.com/jskherman/", icon = "github" },
     { name = "Fediverse", url = "https://mathstodon.xyz/@jskherman", icon = "mastodon" },
-    { name = "Twitter", url = "https://twitter.com/jskherman/", icon = "twitter" },
-    { name = "Telegram", url = "https://t.me/jskherman", icon = "telegram" },
     { name = "YouTube", url = "https://youtube.com/watch?v=dQw4w9WgXcQ", icon = "youtube" },
     { name = "Coffee?", url = "https://ko-fi.com/jskherman", icon = "kofi" },
     { name = "INTJ", url = "https://www.16personalities.com/profiles/672b5e6d1fea7", icon = "user" },
