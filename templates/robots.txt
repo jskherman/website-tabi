@@ -1,3 +1,7 @@
+User-agent: archive.org_bot
+Allow: /
+Disallow: /secrets
+
 User-agent: search.marginalia.nu
 Allow: /
 Disallow: /secrets
