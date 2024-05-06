@@ -93,7 +93,10 @@ Now that the wait is over let us now proceed to entering our parameters in the A
 
 <!-- ![The PCSO search Lotto form](https://2023.jskherman.com/blog/lotto-data/20210805-search-lotto.png) -->
 
-{{ admonition(type="tip", text='To inspect the dropdown menu, right-click on it and navigate to "Developer Tools" and select "Inspect" (or press `F12`). We then get the value inside of the `id` parameter.') }}
+{% admonition(type="tip") %}
+
+To inspect the dropdown menu, right-click on it and navigate to "Developer Tools" and select "Inspect" (or press `F12`). We then get the value inside of the `id` parameter.
+{% end %}
 
 We want the end date to be today to get the latest data from all the games and the start date to be the earliest possible option which is `January 1, 2012` in the dropdown menu. As for the lotto game we want all games. We will just split the data up later into smaller dataframes using pandas for each lotto game, so that we only need to scrape the website every time we want to update our data. But first get today's date which will be used later.
 

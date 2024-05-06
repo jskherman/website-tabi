@@ -15,3 +15,40 @@
     overflow: hidden;
     border: none;
 }
+
+
+.admonition.note {
+    pre > code {
+        background-color: var(--codeblock-bg) !important;
+    }
+}
+
+.admonition.tip {
+    border-color: var(--admonition-tip-border);
+    background-color: var(--admonition-tip-bg);
+
+    pre > code {
+        background-color: var(--codeblock-bg) !important;
+    }
+
+}
+
+.admonition.info {
+
+    pre > code {
+        background-color: var(--codeblock-bg) !important;
+    }
+}
+
+.admonition.warning {
+    
+    pre > code {
+        background-color: var(--codeblock-bg) !important;
+    }
+}
+
+.admonition.danger {
+    pre > code {
+        background-color: var(--codeblock-bg) !important;
+    }
+}

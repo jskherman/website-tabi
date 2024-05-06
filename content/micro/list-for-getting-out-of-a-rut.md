@@ -15,7 +15,13 @@ giscus = true
 # social_media_card = "https://2023.jskherman.com/blog/github-contributions/20210805-lottery-banner.jpg"
 +++
 
-{{ admonition(type="danger", title='JUST DO IT for 5 minutes.', text='<details><summary>Be not afraid 👁️</summary>I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past, I will turn the inner eye to see its path. Where the fear has gone, there will be nothing. Only I will remain.</details>') }}
+{% admonition(type="danger", title="JUST DO IT for 5 minutes.") %}
+
+<details><summary>Be not afraid 👁️</summary>
+
+I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past, I will turn the inner eye to see its path. Where the fear has gone, there will be nothing. Only I will remain.
+</details>
+{% end %}
 
 ## For top of your mind
 

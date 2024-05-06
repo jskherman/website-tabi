@@ -14,7 +14,10 @@ giscus = true
 # social_media_card = "https://2023.jskherman.com/blog/github-contributions/20210805-lottery-banner.jpg"
 +++
 
-{{ admonition(type="info", title="TL;DR", text="It might not be possible. But there are workarounds via [capture groups](https://stackoverflow.com/a/66508882).") }}
+{% admonition(type="info", title="TL;DR", text="") %}
+
+It might not be possible. But there are workarounds via [capture groups](https://stackoverflow.com/a/66508882).
+{% end %}
 
 Today I learned how to apply multiple transforms to a variable in VS Code snippets using RegEx capture groups. I was trying to create a VS Code snippet for quickly creating new markdown files with prefilled [Hugo](https://gohugo.io/) post metadata fields. I wanted to be able to type `@note` and have it expand to the following (using an example filename):
 

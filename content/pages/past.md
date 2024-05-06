@@ -8,7 +8,10 @@ katex = true
 quick_navigation_buttons = true
 +++
 
-{{ admonition(type="info", text="<details><summary>Show Table of Contents</summary><!-- toc --></details>") }}
+{% admonition(type="info") %}
+
+<details><summary>Show Table of Contents</summary><!-- toc --></details>
+{% end %}
 
 
 ## The Year 2023
