@@ -1,8 +1,8 @@
 # Internal links
-/nano/:slug/    /micro/:slug/                                    301
+/nano/:slug/    /micro/:slug/                                   301
 /feed.xml       /atom.xml                                       200
-/rut            /micro/list-for-getting-out-of-a-rut/           302
-/teapot         /404                                            418
+/rut/           /micro/list-for-getting-out-of-a-rut/           302
+/teapot/        /404                                            418
 
 # External links
 /px             https://www.youtube.com/watch?v=mUkNS6W5Z54&list=PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U         302
