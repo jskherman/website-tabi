@@ -32,7 +32,7 @@ The code is available under the [MIT license](https://choosealicense.com/license
 I'm [Je Sian Keith Herman](#firstname) and I'm your simple enjoyer of 🍨&nbsp;ice&nbsp;cream, ☕&nbsp;iced&nbsp;coffee, and 🍹&nbsp;iced&nbsp;tea. I recently graduated from [Bicol University](https://bicol-u.edu.ph/) with a degree of Bachelor of Science in [Chemical&nbsp;Engineering](https://www.icheme.org/education/whynotchemeng/).
 
 This is the site where I share my thoughts, tools, interests, projects, showcases, experiences, etc. Check out
-the [archive](@/archive/_index.md) for a list of some of it. Feel free to reach out and give feedback through any of my contact details.
+the [archive](@/archive/_index.md) for a list of some of it. Feel free to reach out and give feedback through [email](#email-link) or any of my [contact details](#socials).
 
 ## What's on here?
 
