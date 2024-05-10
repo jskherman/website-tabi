@@ -49,7 +49,7 @@ I am still building up the contents here on this website from time to time. For 
 {# youtube(id="N3-ucf1ELoA", playlist="PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U", continue=true, audio=false, autoplay=true) #} -->
 
 <!-- {# youtube(id="bJ8Lkwf5h2k", loop=true, quality="hd720", classic=true, title="Rewrite Sorrowless") #} -->
-{{ youtube(id="RQ6qzxW5Gj8", loop=true, quality="hd720", classic=true, title="Rewrite Sorrowless") }}
+{{ youtube(id="RQ6qzxW5Gj8", loop=true, quality="hd720", audio=true, classic=true, title="Rewrite Sorrowless") }}
 
 {% end %}
 
