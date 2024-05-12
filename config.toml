@@ -60,14 +60,14 @@ index_format = "elasticlunr_json"
 skip_prefixes = [
     "https://www.vultr.com/",
     "http://[2001:db8::]/",
-    "https://www.facebook.com/"
+    "https://www.facebook.com/",
 ]
 
 # Skip anchor checking for external URLs that start with these prefixes
 skip_anchor_prefixes = [
     "https://github.com/",
     "https://caniuse.com/",
-    "https://docs.google.com"
+    "https://docs.google.com",
 ]
 
 # Treat external link problems as either "error" or "warn", default is "error"
@@ -317,7 +317,7 @@ allowed_domains = [
     { directive = "frame-src", domains = [
         "player.vimeo.com",
         "https://www.youtube-nocookie.com",
-        "https://iv.melmac.space"
+        "https://invidious.privacydev.net",
     ] },
 ]
 
