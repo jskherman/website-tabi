@@ -6,7 +6,7 @@ date = 2024-05-13
 draft = false
 
 [taxonomies]
-tags = ["business", "vtubers", "management", "entertainment"]
+tags = ["business", "vtubers", "management", "entertainment", "videos"]
 
 [extra]
 giscus = true
@@ -14,7 +14,7 @@ giscus = true
 
 ## My Journey into the Vtuber Rabbit Hole
 
-In one of my procrastination web surfing journeys, I stumbled upon the world of Vtubers through the serendipity of the YouTube recommendation algorithm. At first, it was just the funny clips, memes, and video game streams. However, I was pulled deeper into the rabbit hole when **Kurosanji**, a Vtuber company, recently faced backlash due to a _extremely_ poor and distasteful PR move involving one of their talents. As I delved deeper into the situation, I found myself reading comments on Reddit and YouTube, as well as watching video reports on the worsening situation for **Kurosanji**. This led me to encounter various discussion points related to:
+In one of my procrastination web surfing journeys, I stumbled upon the world of Vtubers through the serendipity of the YouTube recommendation algorithm. At first, it was just the funny clips, memes, and video game streams. However, I was pulled deeper into the rabbit hole when **Kurosanji**, a Vtuber company, recently faced backlash in February 2024 due to a _extremely_ poor and distasteful PR move involving one of their talents. As I delved deeper into the situation, I found myself reading comments on Reddit and YouTube, as well as watching video reports on the worsening situation for **Kurosanji**. This led me to encounter various discussion points related to:
 
 - Business fundamentals and stock analysis
 - Business and talent management
