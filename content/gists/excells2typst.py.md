@@ -14,7 +14,7 @@ tags = ["python", "typst", "scripting", "ms excel", "data extraction"]
 
 This is a Python script that converts a selected region of cells in Microsoft Excel to a table in Typst.
 
-{% admonition(type="note", title="Attribution") %}
+{% admonition(type="info", title="Attribution") %}
 The code below was created by [**@flaribbit**](https://github.com/flaribbit) and was originally shared on the [Typst Discord server](https://discord.com/channels/1054443721975922748/1238666728888864869) on `2024-05-11`. The comments are not included in the original snippet and were added after the fact using [Meta's Llama 3 70B LLM](https://llama.meta.com/llama3/) for documentation.
 {% end %}
 
@@ -90,7 +90,7 @@ out.write("\n)\n")
 out.close()
 ```
 
-{% admonition(type="info") %}
+{% admonition(type="note") %}
 
 A caveat: for cells that only have rowspans (no unit cells), they will not span the proper cell size (and produce a wrong output) in Typst because the row height is `auto`. A suggested workaround is by assigning a fixed height to the rows in the output table in Typst (e.g. `table(rows: 2em)`).
 
