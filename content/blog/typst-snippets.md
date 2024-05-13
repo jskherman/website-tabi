@@ -6,7 +6,7 @@ updated = 2023-12-27
 draft = false
 
 [taxonomies]
-tags = ["typst", "snippets", "vim", "neovim", "vscode"]
+tags = ["typst", "snippets", "vim", "neovim", "vs code"]
 
 [extra]
 katex = true
