@@ -5,7 +5,7 @@ date = 2024-02-19
 draft = false
 
 [taxonomies]
-tags = ["networking", "internet", "phones"]
+tags = ["networking", "internet", "phones", "μ"]
 
 [extra]
 giscus = true

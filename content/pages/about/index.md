@@ -18,11 +18,11 @@ the [archive](@/archive/_index.md) for a list of some of it. Feel free to reach 
 
 I am still building up the contents here on this website from time to time. For now, here's some links to things on this site that might be of interest that I have already built up:
 
-- The [Gists](@/gists/_index.md): if you're looking for code snippets and random pieces of text.
-- The [μ-blog](@/micro/_index.md): I don't, of course, just post long-form articles, but also short notes and thoughts.
-- My [Curriculum Vitae](https://go.jskherman.com/cv): if you're looking for it.
+- The [Blog](@/blog/_index.md): self-explanatory section that lists the blog posts
+- The [Gists](@/gists/_index.md): code snippets and random pieces of text.
 - The [Now page](@/pages/now/index.md): if you're looking up what I am up to these days.[^1]
 - The [Web Archive](https://webclips.jskherman.com): if you're looking for a collection of links that I found interesting and have saved.
+- My [Curriculum Vitae](https://go.jskherman.com/cv): if you're looking for it.
 
 ## Frequently Asked Questions
 

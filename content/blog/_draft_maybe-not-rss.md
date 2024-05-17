@@ -5,7 +5,7 @@ date = 2024-05-01
 draft = true
 
 [taxonomies]
-tags = ["blogging", "links", "internet", "news"]
+tags = ["blogging", "links", "internet", "news", "μ", "essay"]
 
 [extra]
 giscus = true

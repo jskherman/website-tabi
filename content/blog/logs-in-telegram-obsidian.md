@@ -5,7 +5,7 @@ date = 2024-02-20
 draft = false
 
 [taxonomies]
-tags = ["journaling", "telegram", "plaintext", "obsidian"]
+tags = ["journaling", "telegram", "plaintext", "obsidian", "μ"]
 
 [extra]
 giscus = true

@@ -3,10 +3,10 @@ title = "Keeping a list for getting out of a rut"
 description = "This is a note to myself that's a list of resources to refer to when I'm feeling stuck or in a rut epsecially if I'm browsing the internet mindlessly."
 date = 2024-04-26
 updated = 2024-04-26
-draft = false
+draft = true
 
 [taxonomies]
-tags = ["lists", "links", "procrastination", "videos"]
+tags = ["lists", "links", "procrastination", "videos", "μ"]
 
 [extra]
 giscus = true

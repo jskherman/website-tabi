@@ -1,5 +1,7 @@
 # Internal links
-/nano/:slug/    /micro/:slug/                                   301
+/micro/         /tags/m/                                        301
+/micro/:slug/   /blog/:slug/                                    301
+/nano/:slug/    /blog/:slug/                                    301
 /feed.xml       /atom.xml                                       200
 /rut/           /micro/list-for-getting-out-of-a-rut/           302
 /teapot/        /404                                            418
