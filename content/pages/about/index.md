@@ -24,6 +24,20 @@ I am still building up the contents here on this website from time to time. For 
 - The [Web Archive](https://webclips.jskherman.com): if you're looking for a collection of links that I found interesting and have saved.
 - My [Curriculum Vitae](https://go.jskherman.com/cv): if you're looking for it.
 
+## Impact
+
+A running list of things that have had a big impact on me:
+
+- [The book "A Mind For Numbers" by Barbara Oakley](https://barbaraoakley.com/books/a-mind-for-numbers/): A book on learning how to learn.
+- [3Blue1brown](https://www.youtube.com/@3blue1brown): Math and more explained visually. Check out [a commencement speech](https://www.youtube.com/watch?v=W3I3kAg2J7w&t=45s) of his.
+- [WaitButWhy](https://waitbutwhy.com): A blog that explains things in a simple and fun way with stick figures!
+- Games and Visual Novels
+    - [Rewrite by Key](https://vndb.org/v751): A visual novel with supernatural elements that has a special place in my heart.
+    - [Katawa Shoujo by Four Leaf Studios](https://vndb.org/v945): A visual novel about coming to terms with one's disabilities and understanding others.
+    <!-- - [If My Heart Had Wings by Pulltop](https://vndb.org/v9093): The visual novel that got me started on the genre. -->
+    - [Persona 3](https://www.wikiwand.com/en/Persona_3): A JRPG exploring the concept of "Memento Mori", shadows ([Jungian psychology](https://www.wikiwand.com/en/Shadow_(psychology))), and of the self.
+- [The World God Only Knows by Wakaki Tamiki](https://myanimelist.net/manga/7519/Kami_nomi_zo_Shiru_Sekai): A manga on galge.
+
 ## Frequently Asked Questions
 
 {% toggle(title="How do you pronounce your first name?", id="firstname") %}
