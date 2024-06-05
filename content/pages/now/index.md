@@ -26,7 +26,7 @@ quick_navigation_buttons = false
 - `2023-12-15` Working on some small tweaks/fixes on the side for my [résumé/CV template](https://github.com/jskherman/cv.typ) made with $\ \xcancel{\LaTeX} \ $ [Typst](https://typst.app). I sometimes find myself checking the repository to see if it has reached 100 stars yet. It's currently at 97 stars on `2023-12-27`. Imaginary internet points, lol. It got featured on Twitter by the [Typst team](https://twitter.com/typstapp), which made me a bit enthused.
   > Let's start with the classics: Try [@jskherman](https://twitter.com/jskherman?ref_src=twsrc%5Etfw)'s template if you are a after a classy, evergreen look <https://github.com/jskherman/cv.typ>
   >
-  > <details><summary>Preview</summary>{{ image_toggler(default_src="https://github.com/jskherman/cv.typ/assets/68434444/e016642e-4b42-43a5-b717-17661283e7fe", toggled_src="https://github.com/jskherman/cv.typ/assets/68434444/d97cb2f8-c921-4e1a-8146-213b16b4a5df", default_alt="Page 1 Template Preview", toggled_alt="Page 1 Template Preview") }}</details>
+  > <details><summary>Preview</summary>{{ image_toggler(default_src="https://github.com/jskherman/imprecv/raw/main/assets/thumbnail.1.png", toggled_src="https://github.com/jskherman/imprecv/raw/main/assets/thumbnail.2.png", default_alt="Page 1 Template Preview", toggled_alt="Page 2 Template Preview") }}</details>
   >
   > &mdash; Typst (@typstapp) [December 21, 2023](https://twitter.com/typstapp/status/1737806834000441835?ref_src=twsrc%5Etfw)
 
