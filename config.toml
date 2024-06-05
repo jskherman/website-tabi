@@ -230,7 +230,7 @@ menu = [
     { name = "about", url = "about", trailing_slash = true },
     { name = "blog", url = "blog", trailing_slash = true },
     { name = "gists", url = "gists", trailing_slash = true },
-    # { name = "projects", url = "projects", trailing_slash = true },
+    { name = "projects", url = "projects", trailing_slash = true },
     { name = "archive", url = "archive", trailing_slash = true },
     { name = "tags", url = "tags", trailing_slash = true },
 ]
@@ -317,6 +317,7 @@ allowed_domains = [
         "player.vimeo.com",
         "https://www.youtube-nocookie.com",
         "https://invidious.privacydev.net",
+        "https://star-history.com",
     ] },
 ]
 
