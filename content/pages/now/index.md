@@ -21,7 +21,7 @@ quick_navigation_buttons = false
 
 ## I'm Working On
 
-+ `2024-05-29`: I just recently passed the [Chemical Engineering Licensure Exam](https://www.prc.gov.ph/article/may-2024-chemical-engineers-licensure-examination-results-released-two-2-working-days/7355) held by the [Professional Regulation Commission of the Philippines](https://www.wikiwand.com/en/Professional_Regulation_Commission) with a rating of `83.70%` (_so close_ with just one point more...). I'm currently working on getting my license and looking for a job.[^2] I'm also planning to update my résumé to reflect my new status as a licensed Chemical Engineer. Having the title of "Engr." has not sunk in yet for me.
++ `2024-05-29`: I recently passed the [May 2024 Chemical Engineering Licensure Exam](https://www.prc.gov.ph/article/may-2024-chemical-engineers-licensure-examination-results-released-two-2-working-days/7355) held by the [Professional Regulation Commission of the Philippines](https://www.wikiwand.com/en/Professional_Regulation_Commission) with a rating of `83.70%` (_so close_ with just one point more...). I'm currently working on getting my license and looking for a job.[^2] I'm also planning to update my [résumé](https://go.jskherman.com/cv) to reflect my new status as a licensed Chemical Engineer. Having the title of "Engr." has not sunk in yet for me.
 
 + `2024-06-05`: I'm trying to learn how to build a Telegram bot using the [python-telegram-bot](https://python-telegram-bot.org/) library. I'm planning to use it to aid me in my daily activities and logging my personal data for my [Quantified Self](https://www.wikiwand.com/en/Quantified_self) project.
 
