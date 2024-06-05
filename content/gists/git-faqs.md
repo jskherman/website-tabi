@@ -12,7 +12,7 @@ tags = ["git", "tools"]
 
 Frequently Asked Questions:
 
-<details><summary>How can I remove/delete a large file from the commit history in the Git repository?</summary>
+{% toggle(title="How can I remove/delete a large file from the commit history in the Git repository?") %}
 
 > Use the [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/), a simpler, faster alternative to git-filter-branch, specifically designed for removing unwanted files from Git history.
 >
@@ -39,6 +39,25 @@ Frequently Asked Questions:
 >
 > Full disclosure: I'm the author of the BFG Repo-Cleaner.
 >
-> — [_Roberto Tyley_](https://stackoverflow.com/questions/2100907/how-can-i-remove-delete-a-large-file-from-the-commit-history-in-the-git-reposito) (on StackOverflow)
+> —[_Roberto Tyley_](https://stackoverflow.com/a/17890278/23523121) (on StackOverflow)
 
-</details>
+{% end %}
+
+{% toggle(title="How do I remove a submodule?") %}
+
+> In modern Git (I'm writing this in 2022, with an updated `git` installation), this has become quite a bit simpler:
+>
+>> Run `git rm <path-to-submodule>`, and commit.
+>
+> This removes the filetree at `<path-to-submodule>`, and the submodule's entry in the `.gitmodules` file. I.e. all traces of the submodule in your repository proper are removed.
+>
+> As [the docs note](https://git-scm.com/docs/gitsubmodules#:%7E:text=file%20system%2C%20but-,the%20Git%20directory%20is%20kept%20around,-as%20it%20to) however, the `.git` dir of the submodule is kept around (in the `modules/` directory of the main project's `.git` dir), "**to make it possible to checkout past commits without requiring fetching from another repository**".
+>
+> If you nonetheless want to remove this info, manually delete the submodule's directory in `.git/modules/`, and remove the submodule's entry in the file `.git/config`. These steps can be automated using the commands:
+>
+> - `rm -rf .git/modules/<path-to-submodule>`
+> - `git config --remove-section submodule.<path-to-submodule>`
+>
+> —[_John Douthat_](https://stackoverflow.com/a/1260982/23523121) (on StackOverflow)
+
+{% end %}
