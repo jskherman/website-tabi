@@ -21,6 +21,7 @@ I am still building up the contents here on this website from time to time. For 
 - The [**Projects**](@/projects/_index.md) section: a list of projects that I have worked on.
 - The [**Now page**](@/pages/now/index.md): if you're looking up what I am up to these days.[^1]
 - The [**Web Archive**](https://webclips.jskherman.com): if you're looking for a collection of links that I found interesting and have saved.
+- My [**drafts and notes**](https://notes.jskherman.com): if you're looking for my notes on various topics .[^2]
 
 ## Impact
 
@@ -73,3 +74,5 @@ A running list of things that have had a big impact on me:
 
 
 [^1]: Don't know what a Now page is? [Learn about the idea](http://nownownow.com/about) and make your own too!
+
+[^2]: I use [Obsidian](https://obsidian.md) for my notes! I  It's a great tool for personal knowledge management and note-taking. If you also use it, let's connect! I would love to share notes and ideas with you.
