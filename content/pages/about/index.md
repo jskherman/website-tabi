@@ -15,11 +15,12 @@ I'm [Je Sian Keith Herman](#firstname), a [Chemical&nbsp;Engineer](https://www.i
 
 I am still building up the contents here on this website from time to time. For now, here's some links to things on this site that might be of interest that I have already built up:
 
-- The [Blog](@/blog/_index.md): self-explanatory section that lists the blog posts
-- The [Gists](@/gists/_index.md): code snippets and random pieces of text.
-- The [Now page](@/pages/now/index.md): if you're looking up what I am up to these days.[^1]
-- The [Web Archive](https://webclips.jskherman.com): if you're looking for a collection of links that I found interesting and have saved.
-- My [Curriculum Vitae](https://go.jskherman.com/cv): if you're looking for it.
+- My [**CV**](https://go.jskherman.com/cv): if you're looking for it.
+- The [**Blog**](@/blog/_index.md) section: self-explanatory section that lists the blog posts on this site.
+- The [**Gists**](@/gists/_index.md) section: code snippets and random pieces of text.
+- The [**Projects**](@/projects/_index.md) section: a list of projects that I have worked on.
+- The [**Now page**](@/pages/now/index.md): if you're looking up what I am up to these days.[^1]
+- The [**Web Archive**](https://webclips.jskherman.com): if you're looking for a collection of links that I found interesting and have saved.
 
 ## Impact
 
@@ -32,8 +33,8 @@ A running list of things that have had a big impact on me:
     - [Rewrite by Key](https://vndb.org/v751): A visual novel with supernatural elements that has a special place in my heart.
     - [Katawa Shoujo by Four Leaf Studios](https://vndb.org/v945): A visual novel about coming to terms with one's disabilities and understanding others.
     <!-- - [If My Heart Had Wings by Pulltop](https://vndb.org/v9093): The visual novel that got me started on the genre. -->
-    - [Persona 3](https://www.wikiwand.com/en/Persona_3): A JRPG exploring the concept of "Memento Mori", shadows ([Jungian psychology](https://www.wikiwand.com/en/Shadow_(psychology))), and of the self.
-- [The World God Only Knows by Wakaki Tamiki](https://myanimelist.net/manga/7519/Kami_nomi_zo_Shiru_Sekai): A manga on galge.
+    - [Persona 3 (FES/Portable/Reload)](https://www.wikiwand.com/en/Persona_3): A JRPG exploring the concept of "Memento Mori", shadows ([Jungian psychology](https://www.wikiwand.com/en/Shadow_(psychology))), and the self.
+- [The World God Only Knows by Wakaki Tamiki](https://myanimelist.net/manga/7519/Kami_nomi_zo_Shiru_Sekai): reading this for the plot and the humor.
 
 ## Frequently Asked Questions
 
