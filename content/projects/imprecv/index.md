@@ -4,6 +4,10 @@ description = "A no-frills CV template using Typst and YAML to version control C
 weight = 10
 date = 2024-06-04
 
+[taxonomies]
+tags = ["project", "typst", "cv", "resume", "template", "github"]
+
+
 [extra]
 local_image = "projects/imprecv/cv_thumbnail.png"
 # social_media_card = "social_cards/projects_doteki.jpg"
