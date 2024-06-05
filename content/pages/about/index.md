@@ -40,7 +40,7 @@ A running list of things that have had a big impact on me:
 
 {% toggle(title="How do you pronounce your first name?", id="firstname") %}
 
-> My first name "Je Sian Keith" is pronounced as **/ʤi ʃan kiːθ/** (ji shan kith) in the International Phonetic Alphabet (IPA).
+> My first name "Je Sian Keith" is pronounced as **/ʤi ʃan kiːθ/** (ji shan kith) in the [International Phonetic Alphabet (IPA)](https://www.wikiwand.com/en/International_Phonetic_Alphabet).
 
 {% end %}
 
