@@ -2,6 +2,7 @@
 title = "imprecv"
 description = "A no-frills CV template using Typst and YAML to version control CV data."
 weight = 10
+date = 2024-06-04
 
 [extra]
 local_image = "projects/imprecv/cv_thumbnail.png"
