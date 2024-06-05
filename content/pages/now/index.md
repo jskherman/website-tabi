@@ -2,6 +2,8 @@
 title = "Now"
 template = "info-page.html"
 path = "now"
+date = 2021-06-21
+updated = 2024-06-05 
 
 [extra]
 katex = true
@@ -19,20 +21,13 @@ quick_navigation_buttons = false
 
 ## I'm Working On
 
-- `2023-12-04` I have switched over my quantified self site to use [Holoviz's Panel library](https://panel.holoviz.org) to create the dashboards. I'm planning to add more data sources and pages to it when I have free time. I currently have on there a page tracking how much time I have spent studying for the Chemical Engineering board exam.
++ `2024-05-29`: I just recently passed the [Chemical Engineering Licensure Exam](https://www.prc.gov.ph/article/may-2024-chemical-engineers-licensure-examination-results-released-two-2-working-days/7355) held by the [Professional Regulation Commission of the Philippines](https://www.wikiwand.com/en/Professional_Regulation_Commission) with a rating of `83.70%` (_so close_ with just one point more...). I'm currently working on getting my license and looking for a job.[^2] I'm also planning to update my résumé to reflect my new status as a licensed Chemical Engineer. Having the title of "Engr." has not sunk in yet for me.
 
-- `2023-12-05` I'm currently working on adjusting my body clock to wake up earlier for the review. I found that it was easier to do in a new environment than when I was at home, despite both places of sleep having no access to sunlight.
-
-- `2023-12-15` Working on some small tweaks/fixes on the side for my [résumé/CV template](https://github.com/jskherman/cv.typ) made with $\ \xcancel{\LaTeX} \ $ [Typst](https://typst.app). I sometimes find myself checking the repository to see if it has reached 100 stars yet. It's currently at 97 stars on `2023-12-27`. Imaginary internet points, lol. It got featured on Twitter by the [Typst team](https://twitter.com/typstapp), which made me a bit enthused.
-  > Let's start with the classics: Try [@jskherman](https://twitter.com/jskherman?ref_src=twsrc%5Etfw)'s template if you are a after a classy, evergreen look <https://github.com/jskherman/cv.typ>
-  >
-  > <details><summary>Preview</summary>{{ image_toggler(default_src="https://github.com/jskherman/imprecv/raw/main/assets/thumbnail.1.png", toggled_src="https://github.com/jskherman/imprecv/raw/main/assets/thumbnail.2.png", default_alt="Page 1 Template Preview", toggled_alt="Page 2 Template Preview") }}</details>
-  >
-  > &mdash; Typst (@typstapp) [December 21, 2023](https://twitter.com/typstapp/status/1737806834000441835?ref_src=twsrc%5Etfw)
++ `2024-06-05`: I'm trying to learn how to build a Telegram bot using the [python-telegram-bot](https://python-telegram-bot.org/) library. I'm planning to use it to aid me in my daily activities and logging my personal data for my [Quantified Self](https://www.wikiwand.com/en/Quantified_self) project.
 
 ## Reading Now
 
-None at the moment. It's review materials because of the board exams.
+None at the moment.
 
 <!--
 ## Curated Links
@@ -43,3 +38,5 @@ None at the moment. It's review materials because of the board exams.
 <!-- footnotes -->
 
 [^1]: For past updates see [this page](@/pages/past.md).
+
+[^2]: Here's a link to [my CV](https://go.jskherman.com/cv) and [LinkedIn](https://linkedin.com/in/jskherman) if you want to hire me. :>
