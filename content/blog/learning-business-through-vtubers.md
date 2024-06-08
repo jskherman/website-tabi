@@ -6,7 +6,7 @@ updated = 2024-06-05
 draft = false
 
 [taxonomies]
-tags = ["business", "vtubers", "management", "entertainment", "videos", "μ", "essay"]
+tags = ["business", "vtubers", "management", "entertainment", "videos", "μ", "essays"]
 
 [extra]
 giscus = true
