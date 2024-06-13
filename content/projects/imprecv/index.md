@@ -9,7 +9,7 @@ tags = ["project", "typst", "cv", "resume", "template", "github"]
 
 
 [extra]
-local_image = "projects/imprecv/cv_thumbnail.png"
+local_image = "projects/imprecv/cv_thumbnail.webp"
 # social_media_card = "social_cards/projects_doteki.jpg"
 canonical_url = "https://www.jskherman.com/projects/imprecv/"
 +++
