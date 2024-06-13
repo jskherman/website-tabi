@@ -69,7 +69,7 @@ A running list of things that have had a big impact on me:
 
 {% toggle(title="What is it that keeps you going?") %}
 
-{{ image_hover(default_src="/img/keeps-you.png", hovered_src="/img/keeps-you-going.png", default_alt="What keeps me going is my desire to crush my enemies.", hovered_alt="What keeps me going is my sense of wonder.") }}
+{{ image_hover(default_src="/img/keeps-you.webp", hovered_src="/img/keeps-you-going.webp", default_alt="What keeps me going is my desire to crush my enemies.", hovered_alt="What keeps me going is my sense of wonder.") }}
 {% end %}
 
 

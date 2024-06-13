@@ -12,7 +12,7 @@ quick_navigation_buttons = false
 
 > This is a **"now page"**. If you have a site, [you can make one](http://nownownow.com/about) too.[^1]
 
-{{ dual_theme_image(light_src="/img/day.png", dark_src="/img/night.png", alt="Sunrise and sunset background in Pokemon RSE", full_width=true) }}
+{{ dual_theme_image(light_src="/img/day.webp", dark_src="/img/night.webp", alt="Sunrise and sunset background in Pokemon RSE", full_width=true) }}
 
 <!-- {{ full_width_image(src="/img/sunrise-sunset.gif", alt="Sunrise and sunset background in Pokemon RSE") }} -->
 
