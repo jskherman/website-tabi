@@ -62,22 +62,6 @@
         <meta name="theme-color" content="{{ config.extra.browser_theme_color }}" />
     {%- endif -%}
 
-    <script>
-        (function() {
-            var savedTheme = localStorage.getItem('theme');
-            if (savedTheme) {
-                document.documentElement.setAttribute('data-theme', savedTheme);
-            }
-        })();
-    </script>
-
-    {%- if config.extra.theme_switcher and config.extra.theme_switcher == true -%}
-        {# If JavaScript is disabled, hide the button. #}
-        <noscript><link rel="stylesheet" href="{{ get_url(path='no_js.css') | safe }}"/></noscript>
-        <script type="text/javascript" src="{{ get_url(path='js/initializeTheme.min.js') | safe }}"></script>
-        <script defer src="{{ get_url(path='js/themeSwitcher.min.js', trailing_slash=false) | safe }}"></script>
-    {%- endif -%}
-
     {%- if page.description %}
         <meta name="description" content="{{ page.description }}" />
         <meta property="og:description" content="{{ page.description }}" />
@@ -171,6 +155,13 @@
 
     {%- if macros_settings::evaluate_setting_priority(setting="enable_csp", page=page | default(value=""), section=section | default(value=""), default_global_value="true") == "true" -%}
         {%- include "partials/content_security_policy.html" -%}
+    {%- endif -%}
+
+    {%- if config.extra.theme_switcher and config.extra.theme_switcher == true -%}
+        {# If JavaScript is disabled, hide the button. #}
+        <noscript><link rel="stylesheet" href="{{ get_url(path='no_js.css') | safe }}"/></noscript>
+        <script type="text/javascript" src="{{ get_url(path='js/initializeTheme.min.js') | safe }}"></script>
+        <script defer src="{{ get_url(path='js/themeSwitcher.min.js', trailing_slash=false) | safe }}"></script>
     {%- endif -%}
 
     {%- if config.extra.analytics.service -%}
