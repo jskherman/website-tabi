@@ -1,6 +1,10 @@
 <div class="yv{% if class %} {{class}}{% endif %}">
-    <iframe
+    {# <iframe
         src="https://invidious.privacydev.net/embed/{{id}}?t=0{% if playlist %}&list={{playlist}}&index=0{% endif %}{% if autoplay %}&autoplay=1{% endif %}{% if loop %}&loop=1{% endif %}{% if continue %}&continue=1{% endif %}{% if audio %}&listen=true{% endif %}{% if quality %}&quality={{quality}}{% endif %}{% if classic %}&player_style=youtube{% endif %}"
+        title="{{title | default(value='Youtube') }}" class="yvi" webkitallowfullscreen mozallowfullscreen
+        allowfullscreen></iframe> #}
+    <iframe
+        src="https://www.youtube-nocookie.com/embed/{{id}}&start={% if ts %}{{ts}}{% else %}0{% endif %}{% if playlist %}&listType=playlist&list={{playlist}}{% endif %}{% if autoplay %}&autoplay=1{% endif %}{% if loop %}&loop=1{% endif %}"
         title="{{title | default(value='Youtube') }}" class="yvi" webkitallowfullscreen mozallowfullscreen
         allowfullscreen></iframe>
 </div>
