@@ -1,10 +1,11 @@
 +++
 paginate_by = 10
-path = "/blog"
+# path = "blog"
 title = "Blog"
 sort_by = "date"
 template = "section.html"
 insert_anchor_links = "left"
+generate_feeds = true
 
 [extra]
 footnote_backlinks = true

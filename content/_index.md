@@ -1,5 +1,5 @@
 +++
-path = "/"
+# path = "/"
 title = "Recent Posts"
 sort_by = "date"
 template = "section.html"
