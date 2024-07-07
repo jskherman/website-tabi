@@ -57,13 +57,8 @@ A running list of things that have had a big impact on me:
 
 {% toggle(title="Fancy some background music while you're here?") %}
 
-<!-- 
-> Play on [an Invidious Frontend](https://invidious.privacydev.net/watch?v=N3-ucf1ELoA&list=PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U&index=0&autoplay=1) or on [YouTube](https://youtube.com/playlist?list=PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U).
 
-{# youtube(id="N3-ucf1ELoA", playlist="PLjd6T0hhgoNifx6X9y1CAuxL4qG1aze0U", continue=true, audio=false, autoplay=true) #} -->
-
-<!-- {# youtube(id="bJ8Lkwf5h2k", loop=true, quality="hd720", classic=true, title="Rewrite Sorrowless") #} -->
-{{ youtube(id="RQ6qzxW5Gj8", loop=true, quality="hd720", audio=true, classic=true, title="Rewrite Sorrowless") }}
+{{ youtube(id="RQ6qzxW5Gj8", loop=true, title="Rewrite Sorrowless") }}
 
 {% end %}
 
