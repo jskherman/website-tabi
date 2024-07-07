@@ -57,8 +57,7 @@ A running list of things that have had a big impact on me:
 
 {% toggle(title="Fancy some background music while you're here?") %}
 
-
-{{ youtube(id="RQ6qzxW5Gj8", loop=true, title="Rewrite Sorrowless") }}
+{{ youtube(id="RQ6qzxW5Gj8", loop=true, audio=true, classic=true, title="Rewrite Sorrowless") }}
 
 {% end %}
 
