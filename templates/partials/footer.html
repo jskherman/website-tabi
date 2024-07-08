@@ -11,11 +11,17 @@
 <footer>
     <section>
         <nav id="socials" class="socials nav-navs">
-            {%- if config.extra.socials %}
+            {%- if config.extra.socials or config.extra.email %}
                 <ul>
-                    {%- if config.generate_feed and config.extra.feed_icon -%}
+                    {# Feed icon #}
+                    {# Zola 0.19.0 uses `generate_feeds`. Prior versions use `generate_feed` #}
+                    {% set generate_feed = config.generate_feeds | default(value=config.generate_feed) %}
+                    {% set feed_url = config.feed_filenames[0] | default(value=(config.feed_filename)) %}
+
+                    {%- if generate_feed and config.extra.feed_icon and feed_url -%}
                     <li>
-                        <a class="nav-links no-hover-padding social" rel="{{ rel_attributes }}" {{ blank_target }} href={{ get_url(path=config.feed_filenames.0, lang=lang, trailing_slash=false) | safe }} data-umami-event="Clicked Socials: RSS" data-umami-event-url="{{ get_url(path=config.feed_filenames.0, lang=lang, trailing_slash=false) | safe }}">
+                        <a class="nav-links no-hover-padding social" rel="{{ rel_attributes }}" {{ blank_target }} href={{ get_url(path=feed_url, lang=lang, trailing_slash=false) | safe }} data-umami-event="Clicked Socials: RSS"
+                        data-umami-event-url="{{ get_url(path=feed_url, lang=lang, trailing_slash=false) | safe }}">
                         <img alt="feed" title="feed" src="{{ get_url(path='/social_icons/rss.svg') }}">
                         </a>
                     </li>
@@ -41,20 +47,24 @@
                             {%- if email_needs_decoding -%}
                                 <a id="email-link" class="nav-links no-hover-padding social" href="#" data-umami-event="Clicked Socials: Email" data-encoded-email="{{ encoded_email | safe }}">
                             {%- else -%}
-                                <a id="email-link" class="nav-links no-hover-padding social plausible-event-name=Clicked+Socials:+Email" href="mailto:{{ config.extra.email | safe }}" data-umami-event="Clicked Socials: Email" data-umami-event-url="mailto:{{ config.extra.email | safe }}">
+                                <a id="email-link" class="nav-links no-hover-padding social" href="mailto:{{ config.extra.email | safe }}" data-umami-event="Clicked Socials: Email"
+                                data-umami-event-url="mailto:{{ config.extra.email | safe }}">
                             {%- endif -%}
                                 <img alt="email" title="email" src="{{ get_url(path='social_icons/email.svg') }}">
                             </a>
                         </li>
                     {%- endif -%}
 
-                    {% for social in config.extra.socials %}
-                        <li>
-                            <a class="nav-links no-hover-padding social" rel="{{ rel_attributes }} me" {{ blank_target }} href="{{ social.url | safe }}" data-umami-event="Clicked Socials: {{ social.name }}" data-umami-event-url="{{ social.url | safe }}">
-                                <img alt={{ social.name }} title={{ social.name }} src="{{ get_url(path='social_icons/' ~ social.icon ~ '.svg') }}">
-                            </a>
-                        </li>
-                    {% endfor %}
+                    {%- if config.extra.socials %}
+                        {% for social in config.extra.socials %}
+                            <li>
+                                <a class="nav-links no-hover-padding social" rel="{{ rel_attributes }} me" {{ blank_target }} href={{ social.url | safe }} data-umami-event="Clicked Socials: {{ social.name }}"
+                                data-umami-event-url="{{ social.url | safe }}">
+                                    <img alt={{ social.name }} title={{ social.name }} src="{{ get_url(path='social_icons/' ~ social.icon ~ '.svg') }}">
+                                </a>
+                            </li>
+                        {% endfor %}
+                    {% endif %}
                 </ul>
             {% endif %}
         </nav>
