@@ -1,5 +1,5 @@
 +++
-title = "How to extract data on PCSO lottery winning combinations using Python"
+title = "How to extract PCSO lottery winning combinations using Python"
 description = "Learn how to extract data on PCSO lottery winning combinations using Python and Selenium as well as saving it to Microsoft Excel in this guide."
 date = 2021-08-05
 updated = 2023-01-17
@@ -14,7 +14,7 @@ toc = true
 katex = true
 footnote_backlinks = true
 quick_navigation_buttons = true
-# social_media_card = "https://2023.jskherman.com/blog/lotto-data/20210805-lottery-banner.jpg"
+social_media_card = "https://2023.jskherman.com/blog/lotto-data/20210805-lottery-banner.jpg"
 +++
 
 
@@ -234,7 +234,7 @@ Here's a preview of the cleaned-up data:
 {% wide_container() %}
 
 | ID    | Game               | Combination       | Date       | Prize      | Winners |
-|-------|:-------------------|:------------------| ---------- |:-----------|---------|
+|-------|:-------------------|:------------------|------------|:-----------|---------|
 | 0     | Superlotto 6/49    | 18-24-04-26-47-36 | 2022-05-08 | 67522822.8 | 0       |
 | 1     | Suertres Lotto 4PM | 1-3-9             | 2022-05-08 | 4500.0     | 279     |
 | 2     | EZ2 Lotto 11AM     | 08-04             | 2022-05-08 | 4000.0     | 251     |
@@ -356,19 +356,19 @@ lotto_2da
 <!-- Another long markdown table is given here -->
 
 
-| ID    | Game        | Combination | Date                | Prize   | Winners |
-|-------|-------------|-------------|---------------------|---------|---------|
-| 2877  | EZ2 Lotto   | 25-06       | 2020-02-21 11:00:00 | 4000.0  | 54      |
-| 3858  | EZ2 Lotto   | 05-06       | 2019-07-18 11:00:00 | 4000.0  | 164     |
-| 7987  | EZ2 Lotto   | 30-25       | 2016-12-24 11:00:00 | 4000.0  | 223     |
-| 3876  | EZ2 Lotto   | 29-29       | 2019-07-14 11:00:00 | 4000.0  | 231     |
-| 14423 | EZ2 Lotto   | 19-25       | 2012-11-12 11:00:00 | 4000.0  | 135     |
-| ...   | ...         | ...         | ...                 | ...     | ...     |
-| 11555 | EZ2 Lotto   | 29-28       | 2014-09-24 11:00:00 | 4000.0  | 54      |
-| 15533 | EZ2 Lotto   | 27-16       | 2012-03-12 11:00:00 | 4000.0  | 55      |
-| 15563 | EZ2 Lotto   | 03-08       | 2012-03-06 11:00:00 | 4000.0  | 206     |
-| 9533  | EZ2 Lotto   | 24-30       | 2016-01-06 11:00:00 | 4000.0  | 121     |
-| 2394  | EZ2 Lotto   | 27-08       | 2020-11-07 11:00:00 | 4000.0  | 127     |
+| ID    | Game      | Combination | Date                | Prize  | Winners |
+|-------|-----------|-------------|---------------------|--------|---------|
+| 2877  | EZ2 Lotto | 25-06       | 2020-02-21 11:00:00 | 4000.0 | 54      |
+| 3858  | EZ2 Lotto | 05-06       | 2019-07-18 11:00:00 | 4000.0 | 164     |
+| 7987  | EZ2 Lotto | 30-25       | 2016-12-24 11:00:00 | 4000.0 | 223     |
+| 3876  | EZ2 Lotto | 29-29       | 2019-07-14 11:00:00 | 4000.0 | 231     |
+| 14423 | EZ2 Lotto | 19-25       | 2012-11-12 11:00:00 | 4000.0 | 135     |
+| ...   | ...       | ...         | ...                 | ...    | ...     |
+| 11555 | EZ2 Lotto | 29-28       | 2014-09-24 11:00:00 | 4000.0 | 54      |
+| 15533 | EZ2 Lotto | 27-16       | 2012-03-12 11:00:00 | 4000.0 | 55      |
+| 15563 | EZ2 Lotto | 03-08       | 2012-03-06 11:00:00 | 4000.0 | 206     |
+| 9533  | EZ2 Lotto | 24-30       | 2016-01-06 11:00:00 | 4000.0 | 121     |
+| 2394  | EZ2 Lotto | 27-08       | 2020-11-07 11:00:00 | 4000.0 | 127     |
 
 
 `1815 rows × 5 columns`

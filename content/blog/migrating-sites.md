@@ -8,7 +8,7 @@ updated = 2024-04-27
 tags = ["blogging", "websites", "data", "static site generators", "hugo", "zola"]
 +++
 
-I just finished migrating my website **again for the _fifth_ time**. Yay! 🎉
+I just finished migrating my website **again for the _fourth_ time**. Yay! 🎉
 
 The migration this time was driven by my inability to build my Hugo website using the [Stack theme by @CaiJimmy](https://github.com/CaiJimmy/hugo-theme-stack) because for some reason it cannot fetch the site templates for some pages. It probably has something to do with how the theme is distributed over Hugo modules and on GitHub since I cannot fetch the theme's templates via the Hugo module method or the Git submodule method. With this, all that I'm left with is a site that cannot build and a previously deployed version on Netlify.
 
@@ -24,7 +24,9 @@ In hindsight, it was probably inevitable since I was largely ignorant of what's 
 
 Who knows if I will settle with my currently chosen theme of [@reorx's PaperModX theme](https://github.com/reorx/hugo-PaperModX/) (a fork of the earlier [@adityatelange's PaperMod theme](https://github.com/adityatelange/hugo-PaperMod))? So far it seems good enough for what I need currently. Maybe this time, I'll add functionality myself instead of relying so much on the pre-made theme's features out-of-the-box.
 
-`2024-04-26` Update: I moved to using [Zola](https://getzola.org/) over Hugo. The Tera templating seems easier to read and work with than Go's templating in Hugo. The new theme I settled on is [@welpo's tabi theme](https://github.com/welpo/tabi). Some of the shortcodes I used in PaperModX were already implemented plus a few more bonus shortcodes. The theme also by default uses Inter for the sans-serf font, Source Serif 4 as the serif font, and Cascadia Code for the monospace font which I was thinking.
+---
+
+`2024-04-26` **UPDATE**: I moved to using [Zola](https://getzola.org/) over Hugo. The Tera templating seems easier to read and work with than Go's templating in Hugo. The new theme I settled on is [@welpo's tabi theme](https://github.com/welpo/tabi). Some of the shortcodes I used in PaperModX were already implemented plus a few more bonus shortcodes. The theme also by default uses Inter for the sans-serf font, Source Serif 4 as the serif font, and Cascadia Code for the monospace font which I was thinking.
 
 Moving forward, I'll archive past website iterations in subdomains of jskherman.com such as [2023.jskherman.com](https://2023.jskherman.com) and [2024.jskherman.com](https://2024.jskherman.com). I highly doubt I'll be migrating my website again more than once in a year so this seems fine for now. Even if I did have multiple iterations, I'll just choose the definitve iteration to have the year subdomain.
 

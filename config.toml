@@ -242,7 +242,7 @@ favicon_emoji = "🌱"
 # Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
 # Learn how to create these images in batch and automatically:
 # https://osc.garden/blog/automating-social-media-cards-zola/
-social_media_card = "social_cards/index.png"
+social_media_card = "img/social_card.jpg"
 
 menu = [
     { name = "about", url = "about", trailing_slash = true },
