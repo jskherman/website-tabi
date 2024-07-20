@@ -14,7 +14,7 @@ toc = true
 katex = true
 footnote_backlinks = true
 quick_navigation_buttons = true
-social_media_card = "https://2023.jskherman.com/blog/lotto-data/20210805-lottery-banner.jpg"
+# social_media_card = "https://2023.jskherman.com/blog/lotto-data/20210805-lottery-banner.jpg"
 +++
 
 
