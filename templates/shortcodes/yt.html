@@ -1,0 +1,9 @@
+{% if url %}
+{% set parts = url | split(pat="?") %}
+{% set query_parts = parts[1] | split(pat="=") %}
+{% set params = query_parts[1] | split(pat="&") %}
+{% set id = params[0] %}
+{% endif %}
+<div class="yv{% if class %} {{class}}{% endif %}">
+    <iframe src="https://www.youtube-nocookie.com/embed/{{id}}?t={% if ts %}{{ts}}{% else %}0{% endif %}{% if playlist %}&list={{playlist}}{% endif %}{% if autoplay %}&autoplay=1{% endif %}{% if loop %}&loop=1{% endif %}" title="{{title | default(value='Youtube') }}" class="yvi" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
