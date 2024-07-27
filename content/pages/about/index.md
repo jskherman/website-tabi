@@ -93,7 +93,7 @@ A running list of things that have had a big impact on me:
 <!--- {# invidious(id="RQ6qzxW5Gj8", loop=true, audio=true, classic=true, title="Rewrite Sorrowless") #} --->
 <!-- {# yt(id="RQ6qzxW5Gj8", loop=true, title="Rewrite Sorrowless") #} -->
 
-{{ yt(id="https://www.youtube.com/watch?v=iajikrZZQDU", loop=true, title="Rewrite Sorrowless") }}
+{{ yt(id="iajikrZZQDU", loop=true, title="Rewrite Sorrowless") }}
 
 {% end %}
 
