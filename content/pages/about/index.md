@@ -103,4 +103,4 @@ A running list of things that have had a big impact on me:
 
 [^1]: Don't know what a Now page is? [Learn about the idea](http://nownownow.com/about) and make your own too!
 
-[^2]: I use [Obsidian](https://obsidian.md) for my notes! I  It's a great tool for personal knowledge management and note-taking. If you also use it, let's connect! I would love to share notes and ideas with you.
+<!-- [^2]: I use [Obsidian](https://obsidian.md) for my notes! I  It's a great tool for personal knowledge management and note-taking. If you also use it, let's connect! I would love to share notes and ideas with you. -->
