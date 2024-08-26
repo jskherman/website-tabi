@@ -13,7 +13,7 @@ max_projects = 3
 show_projects_first = false
 +++
 
-Welcome to Je Sian Keith Herman's digital playground for interests, projects, and experiments. I'm a Chemical Engineer exploring code, data, and curiosity.
+Welcome to my digital playground for interests, projects, and experiments. I'm a Chemical Engineer exploring code, data, and wherever my curiosity leads me.
 
 <!-- A space where finite ramblings meet infinite possibilities.
 
