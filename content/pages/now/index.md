@@ -25,7 +25,7 @@ quick_navigation_buttons = false
 
 + `2024-06-05`: I'm trying to learn how to use [NiceGUI](https://nicegui.io) to help me rebuild my [Quantified Self](https://www.wikiwand.com/en/Quantified_self) dashboard with more proper controls for operations that were limited by [Streamlit](https://streamlit.io)'s design (e.g explicit cron jobs for refreshing data).
 
-<!-- + `2024-06-05`: I'm trying to learn how to build a Telegram bot using the [python-telegram-bot](https://python-telegram-bot.org/) library. I'm planning to use it to aid me in my daily activities and logging my personal data for my [Quantified Self](https://www.wikiwand.com/en/Quantified_self) project. -->
++ `2024-08-16`: This is my first day at [Petron Corporation](https://www.petron.com/who-we-are/) as a [Process Engineer](https://web.archive.org/web/20240808030756/https://careers.sanmiguel.com.ph/job/Limay%2C-Bataan-%28ADC1%29-Process-Engineer/1106946301/). Yay! I finally got to update [my LinkedIn](https://www.linkedin.com/in/jskherman/) after it has been bugging me all this time to add Work Experience to get the "All-Star" rating during account creation.
 
 ## Reading Now
 
