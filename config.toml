@@ -5,7 +5,8 @@ title = "jskherman"
 # Author of the site
 author = "Je Sian Keith Herman"
 # Site description for SEO
-description = "@jskherman's HQ on the web. A personal website of eclectic interests, experiments, and projects where there is no niche. Just curiosity."
+# description = "@jskherman's HQ on the web. A personal website of eclectic interests, experiments, and projects where there is no niche. Just curiosity."
+description = "This is Je Sian Keith Herman's digital playground for interests, projects, and experiments. A Chemical Engineer exploring code, data, and curiosity."
 
 theme = "tabi"
 

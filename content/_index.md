@@ -13,4 +13,8 @@ max_projects = 3
 show_projects_first = false
 +++
 
-Welcome to Je Sian Keith Herman's HQ on the internet. A personal website of eclectic interests, experiments, and projects where there is no niche. Just curiosity.
+Welcome to Je Sian Keith Herman's digital playground for interests, projects, and experiments. I'm a Chemical Engineer exploring code, data, and curiosity.
+
+<!-- A space where finite ramblings meet infinite possibilities.
+
+Welcome to Je Sian Keith Herman's HQ on the internet. A personal website of eclectic interests, experiments, and projects where there is no niche. Just curiosity. -->
