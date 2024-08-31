@@ -13,13 +13,11 @@ tags = ["chemical engineering", "career", "job hunting"]
 
 This is the job description for the role of Process Engineer in the O&G industry. This is from [the posting](https://web.archive.org/web/20240808030756/https://careers.sanmiguel.com.ph/job/Limay%2C-Bataan-%28ADC1%29-Process-Engineer/1106946301/) for my role at [Petron Corporation](https://www.petron.com/who-we-are/).
 
----
-
 Responsible to, advises and assists the Chief Process Engineer on matters pertaining to the technical aspects of the overall refinery process operations, operating data analysis of projects to improve the efficiency, safety of operations, and/or support additional requirements in terms of production, new product, or enhanced product quality.
 
 {% toggle(title="Show Picture?") %}
 
-[![Process Engineer Job Description](https://i.imgur.com/zScDEnN.png)](https://imgur.com/zScDEnN)
+[![Process Engineer Job Description](https://pixeldrain.com/api/file/CN1EMx29)](https://imgur.com/zScDEnN)
 {% end %}
 
 {% toggle(title="Description from Similar Roles") %}
