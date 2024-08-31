@@ -44,16 +44,15 @@
     }
 }
 
-body {
+// body {
 
-    // Add a dotted background to the body
-    margin: 0;
-    background-image: radial-gradient(var(--bg-0) 10%, transparent 1%);
-    background-repeat: repeat;
-    background-size: 20px 20px;
-    background-blend-mode: darken
-
-}
+//     // Add a dotted background to the body
+//     margin: 0;
+//     background-image: radial-gradient(var(--bg-0) 10%, transparent 1%);
+//     background-repeat: repeat;
+//     background-size: 20px 20px;
+//     background-blend-mode: darken
+// }
 
 mark {
     margin: 0 -0.4em;

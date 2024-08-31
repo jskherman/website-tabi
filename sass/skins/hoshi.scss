@@ -1,8 +1,10 @@
 :root {
-    --primary-color: #1152A2;   // Contrast ratio: 7.62:1
-    // --primary-color: #1460bd;   // Contrast ratio: 6.10:1
+    // --primary-color: #1152A2; // Contrast ratio: 7.62:1
+    // --primary-color: #1460bd; // Contrast ratio: 6.10:1
+    --primary-color: #03695e; // Contrast ratio: ?
 }
 
 [data-theme='dark'] {
     --primary-color: #ff6b00; // Contrast ratio: 5.77:1
+    // --primary-color: #d9d625; // Contrast ratio: ?
 }
