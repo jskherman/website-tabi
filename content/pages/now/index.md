@@ -21,11 +21,7 @@ quick_navigation_buttons = false
 
 ## I'm Working On
 
-+ `2024-05-29`: I recently passed the [May 2024 Chemical Engineering Licensure Exam](https://www.prc.gov.ph/article/may-2024-chemical-engineers-licensure-examination-results-released-two-2-working-days/7355) held by the [Professional Regulation Commission of the Philippines](https://www.wikiwand.com/en/Professional_Regulation_Commission) with a rating of `83.70%` (_so close_ with just one point more...). I'm currently working on getting my license and looking for a job.[^2] I'm also planning to update my [résumé](https://go.jskherman.com/cv) to reflect my new status as a licensed Chemical Engineer. Having the title of "Engr." has not sunk in yet for me.
-
-+ `2024-06-05`: I'm trying to learn how to use [NiceGUI](https://nicegui.io) to help me rebuild my [Quantified Self](https://www.wikiwand.com/en/Quantified_self) dashboard with more proper controls for operations that were limited by [Streamlit](https://streamlit.io)'s design (e.g explicit cron jobs for refreshing data).
-
-+ `2024-08-16`: This is my first day at [Petron Corporation](https://www.petron.com/who-we-are/) as a [Process Engineer](https://web.archive.org/web/20240808030756/https://careers.sanmiguel.com.ph/job/Limay%2C-Bataan-%28ADC1%29-Process-Engineer/1106946301/). Yay! I finally got to update [my LinkedIn](https://www.linkedin.com/in/jskherman/) after it has been bugging me all this time to add Work Experience to get the "All-Star" rating during account creation.
++ `2024-08-16`: Just got hired! This is my first day at [Petron Corporation](https://www.petron.com/who-we-are/) as a [Process Engineer](https://web.archive.org/web/20240808030756/https://careers.sanmiguel.com.ph/job/Limay%2C-Bataan-%28ADC1%29-Process-Engineer/1106946301/). Yay! I finally got to update [my LinkedIn](https://www.linkedin.com/in/jskherman/) after it has been bugging me all this time to add Work Experience  to get the "All-Star" rating during account creation.
 
 ## Reading Now
 
@@ -41,4 +37,3 @@ None at the moment.
 
 [^1]: For past updates see [this page](@/pages/past.md).
 
-[^2]: Here's a link to [my CV](https://go.jskherman.com/cv) and [LinkedIn](https://linkedin.com/in/jskherman) if you want to hire me. :>

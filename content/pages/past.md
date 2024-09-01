@@ -15,7 +15,18 @@ quick_navigation_buttons = true
 <details><summary>Show Table of Contents</summary><!-- toc --></details>
 {% end %}
 
-<!-- ## The Year 2024 -->
+## The Year 2024
+
+### June
+
++ `2024-06-05`: I'm trying to learn how to use [NiceGUI](https://nicegui.io) to help me rebuild my [Quantified Self](https://www.wikiwand.com/en/Quantified_self) dashboard with more proper controls for operations that were limited by [Streamlit](https://streamlit.io)'s design (e.g explicit cron jobs for refreshing data).
+
+
+### May
+
++ `2024-05-29`: I recently passed the [May 2024 Chemical Engineering Licensure Exam](https://www.prc.gov.ph/article/may-2024-chemical-engineers-licensure-examination-results-released-two-2-working-days/7355) held by the [Professional Regulation Commission of the Philippines](https://www.wikiwand.com/en/Professional_Regulation_Commission) with a rating of `83.70%` (_so close_ with just one point more...). I'm currently working on getting my license and looking for a job.[^20240529] I'm also planning to update my [résumé](https://go.jskherman.com/cv) to reflect my new status as a licensed Chemical Engineer. Having the title of "Engr." has not sunk in yet for me.
+
+[^20240529]: Here's a link to [my CV](https://go.jskherman.com/cv) and [LinkedIn](https://linkedin.com/in/jskherman) if you want to hire me. :>
 
 ## The Year 2023
 
