@@ -3,7 +3,7 @@ title = "My wild ride down the VTuber rabbit hole... straight into business less
 description = "Just a bit of a reflection on how I'm learning business and diving through investor relations documents via VTubers and related company controversies."
 date = 2024-05-13
 updated = 2024-06-05
-draft = false
+draft = true
 
 [taxonomies]
 tags = ["business", "vtubers", "management", "entertainment", "videos", "μ", "essays"]

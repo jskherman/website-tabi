@@ -13,7 +13,7 @@ max_projects = 3
 show_projects_first = false
 +++
 
-I'm a Chemical Engineer exploring code, data, and wherever my curiosity leads me. Welcome to my [digital playground and HQ](/about) for projects and experiments. 
+I'm a Chemical Engineer exploring code, data, and wherever my curiosity leads me. Welcome to [my digital playground](/about) for projects and experiments. 
 
 <!-- A space where finite ramblings meet infinite possibilities.
 

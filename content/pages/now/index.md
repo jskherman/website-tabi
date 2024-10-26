@@ -21,7 +21,7 @@ quick_navigation_buttons = false
 
 ## I'm Working On
 
-+ `2024-08-16`: Just got hired! This is my first day at [Petron Corporation](https://www.petron.com/who-we-are/) as a [Process Engineer](https://web.archive.org/web/20240808030756/https://careers.sanmiguel.com.ph/job/Limay%2C-Bataan-%28ADC1%29-Process-Engineer/1106946301/). Yay! I finally got to update [my LinkedIn](https://www.linkedin.com/in/jskherman/) after it has been bugging me all this time to add Work Experience  to get the "All-Star" rating during account creation.
++ `2024-08-16`: Just got hired! This is my first day at [Petron Corporation](https://www.petron.com/who-we-are/) as a [Process Engineer](https://web.archive.org/web/20240808030756/https://careers.sanmiguel.com.ph/job/Limay%2C-Bataan-%28ADC1%29-Process-Engineer/1106946301/) at the Petron Bataan Refinery—the one and only refinery in the Philippines. Yay! I finally got to update [my LinkedIn](https://www.linkedin.com/in/jskherman/) after it has been bugging me all this time to add Work Experience  to get the "All-Star" rating during account creation.
 
 ## Reading Now
 

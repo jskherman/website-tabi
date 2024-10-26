@@ -15,7 +15,6 @@ I recently discovered the [Telegram Sync](https://github.com/soberhacker/obsidia
 
 To make this workflow efficient, I've also configured my daily note to automatically create a `## Log` heading upon creation, along with Obsidian opening (and creating, if necessary) the daily note upon startup. This integration eliminates the need to choose between Telegram for quick capture and Obsidian for long-form writing and data ownership. I can now enjoy the best of both worlds.
 
-{% admonition(type="note", title="Daily Log Example") %}
 
 Here's an example of how a daily note would look like:
 
@@ -28,7 +27,6 @@ Here's an example of how a daily note would look like:
 
 `19:30` Lorem ipsum dolor sit amet.
 ```
-{% end %}
 
 The template I'm using automatically adds a timestamp in `HH:mm` format at the start of each message. While I still need to test the template's compatibility with images and other files sent via Telegram, it's not a priority for me since I rarely take pictures.
 

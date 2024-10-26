@@ -275,12 +275,12 @@ socials = [
     { name = "CV", url = "https://go.jskherman.com/cv", icon = "file-pdf" },
     { name = "LinkedIn", url = "https://linkedin.com/in/jskherman", icon = "linkedin" },
     { name = "GitHub", url = "https://github.com/jskherman/", icon = "github" },
-    { name = "Fediverse", url = "https://mathstodon.xyz/@jskherman", icon = "mastodon" },
-    { name = "YouTube", url = "https://youtube.com/watch?v=dQw4w9WgXcQ", icon = "youtube" },
+    # { name = "Fediverse", url = "https://mathstodon.xyz/@jskherman", icon = "mastodon" },
+    # { name = "YouTube", url = "https://youtube.com/watch?v=dQw4w9WgXcQ", icon = "youtube" },
     { name = "Buy_me_a_Coffee?", url = "https://ko-fi.com/jskherman", icon = "kofi" },
     { name = "Sponsor_me_on_GitHub?", url = "https://github.com/sponsors/jskherman", icon = "heart" },
     { name = "INTJ", url = "https://www.16personalities.com/profiles/672b5e6d1fea7", icon = "user" },
-    { name = "Personal_Web_Archive", url = "https://webclips.jskherman.com", icon = "archive" },
+    # { name = "Personal_Web_Archive", url = "https://webclips.jskherman.com", icon = "archive" },
     # { name = "RSS", url = "/feed.xml", icon = "rss" },
 ]
 
