@@ -1,0 +1,22 @@
+content:
+  - name: posts
+    label: Posts
+    path: content/blog
+    type: collection
+    fields:
+      - name: title
+        label: Post Title
+        description: Main title for the post
+        type: text
+        required: true
+      - name: date
+        label: Date Published
+        description: Publication date for the post
+        type: date
+        required: true
+      - name: updated
+        label: Last Modified
+        description: Last updated/modification date for the post
+        type: date
+        required: false
+        
